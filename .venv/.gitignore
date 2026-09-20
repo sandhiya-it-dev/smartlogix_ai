@@ -1,0 +1,105 @@
+# =========================================================
+# PYTHON CACHE
+# =========================================================
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# =========================================================
+# VIRTUAL ENVIRONMENTS
+# =========================================================
+.venv/
+venv/
+env/
+ENV/
+
+# =========================================================
+# MACOS / EDITOR FILES
+# =========================================================
+.DS_Store
+.AppleDouble
+.LSOverride
+
+.vscode/
+.idea/
+
+# =========================================================
+# ENVIRONMENT VARIABLES AND SECRETS
+# =========================================================
+.env
+.env.*
+!.env.example
+
+.streamlit/secrets.toml
+
+# =========================================================
+# PROCESSED DATA AND DATABASE FILES
+# =========================================================
+data/processed/
+*.db
+*.sqlite
+*.sqlite3
+*.building.db
+*.db-journal
+*.db-shm
+*.db-wal
+
+# =========================================================
+# TRAINED MACHINE-LEARNING MODELS
+# =========================================================
+models/*.joblib
+models/*.pkl
+models/*.pickle
+
+# Keep evaluation metrics in Git
+!models/metrics.json
+
+# =========================================================
+# YOLO WEIGHTS AND TRAINING OUTPUTS
+# =========================================================
+models/yolo/
+runs/
+yolo_runs/
+*.pt
+*.onnx
+*.engine
+*.tflite
+
+# =========================================================
+# GENERATED COMPUTER-VISION DATASET
+# =========================================================
+cv/images/
+cv/yolo_labels/
+cv/dataset/
+cv/train/
+cv/val/
+cv/test/
+
+# =========================================================
+# LOGS AND TEMPORARY FILES
+# =========================================================
+*.log
+logs/
+tmp/
+temp/
+*.tmp
+*.bak
+*.swp
+
+# =========================================================
+# NOTEBOOK CHECKPOINTS
+# =========================================================
+.ipynb_checkpoints/
+
+# =========================================================
+# BUILD AND PACKAGE FILES
+# =========================================================
+build/
+dist/
+*.egg-info/
+*.zip
