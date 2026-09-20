@@ -1,0 +1,10 @@
+path: ../data/cv
+train: images/train
+val: images/val
+names:
+  0: broken_propeller
+  1: frame_damage
+  2: motor_damage
+  3: landing_gear_damage
+  4: battery_damage
+

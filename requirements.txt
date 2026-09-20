@@ -1,0 +1,16 @@
+pandas>=2.0
+numpy>=1.24
+scikit-learn>=1.3
+joblib>=1.3
+sqlalchemy>=2.0
+fastapi>=0.110
+uvicorn>=0.27
+streamlit>=1.32
+plotly>=5.18
+pydantic>=2.0
+python-multipart>=0.0.9
+opencv-python-headless>=4.8
+Pillow>=10.0
+pytest>=8.0
+# Optional for YOLO training: ultralytics>=8.2
+

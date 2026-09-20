@@ -1,0 +1,839 @@
+product_id,product_name,category,sub_category,is_fragile,is_hazmat,requires_cold_chain,stock_qty,avg_rating,tags,launch_date,weight_kg,battery_included,currency,price_inr,specs.dimensions_cm.length,specs.dimensions_cm.width,specs.dimensions_cm.height
+PRD-00453,Zenith Saree 2024,Apparel,Saree,False,False,False,230,3.38,bestseller,2022-07-04,0.74,,INR,93078.54,,,
+PRD-00517,Nexon Running Shoes Pro,Apparel,Running Shoes,False,False,False,407,3.3,"fragile-handle, clearance",2020-11-27,0.89,False,INR,133860.89,102.9,115.1,3.5
+PRD-00524,Meridian Saree Max,Apparel,Saree,False,False,False,536,2.71,"eco, new, fragile-handle",2022-06-17,0.79,,INR,25610.55,145.0,50.6,25.1
+PRD-00190,Kaveri Microwave,home appliance,Microwave,False,False,False,331,4.37,"premium, new",2022-03-15,43.13,True,INR,163381.89,17.2,87.9,9.9
+PRD-00107,Meridian Smartphone Max,Electronics,Smartphone,False,False,False,596,2.83,,2023-10-07,1.28,,INR,157038.82,36.7,65.8,123.6
+PRD-00063,UrbanCraft Headphones 2024,Electronics,Headphones,False,False,False,438,2.98,,2023-04-19,2.41,,INR,27962.75,144.8,75.7,107.5
+PRD-00794,Meridian Novel Classic,Books,Novel,True,False,False,359,4.17,"eco, bestseller",2023-10-24,1.35,,INR,104599.98,48.1,68.4,120.3
+PRD-00444,Tamira Saree,Apparel,Saree,True,False,False,446,4.61,"fragile-handle, eco",2021-02-02,1.42,False,INR,29861.59,80.5,80.5,9.4
+PRD-00377,Aravind Dry Fruits Lite,Groceries,Dry Fruits,False,False,False,546,3.56,,2021-05-14,6.04,False,INR,40947.97,156.2,91.9,65.4
+PRD-00395,UrbanCraft Spice Pack Lite,Groceries,Spice Pack,False,False,False,869,3.58,premium,2022-02-09,7.23,,INR,150591.56,36.4,78.3,14.9
+PRD-00680,Meridian Steel Coil Classic,Industrial,Steel Coil,False,True,False,248,3.11,"clearance, premium, bestseller",2022-08-12,3882.82,,INR,112502.53,17.4,94.6,122.8
+PRD-00458,UrbanCraft Running Shoes,Apparel,Running Shoes,False,False,False,-11,2.53,"bestseller, eco",2021-06-08,1.47,False,INR,50929.68,62.9,7.1,77.7
+PRD-00665,Kaveri Steel Coil Max,Industrial,Steel Coil,False,True,False,770,4.63,"premium, clearance, bestseller",2022-12-26,3009.54,,INR,146848.92,132.3,25.0,142.9
+PRD-00336,UrbanCraft Rice Bag Lite,Groceries,Rice Bag,False,False,False,791,3.77,fragile-handle,2023-04-30,21.78,,INR,92991.6,86.0,18.1,4.2
+PRD-00741,Nexon Motor Assembly Lite,Industrial,Motor Assembly,False,True,False,699,4.22,,2022-02-19,3901.35,True,INR,74728.7,77.3,74.5,85.6
+PRD-00352,Nexon Spice Pack 2024,Groceries,Spice Pack,False,False,False,845,4.48,,2021-10-26,21.07,True,INR,141087.17,115.2,54.7,65.6
+PRD-00391,Vayu Cooking Oil 2024,Groceries,Cooking Oil,False,False,False,887,4.76,,2022-10-31,22.38,True,INR,23158.92,149.7,46.1,136.7
+PRD-00240,Vayu Recliner 2024,Furniture,Recliner,False,False,False,50,2.6,bestseller,2021-06-11,,,INR,173302.33,,,
+PRD-00050,Meridian Laptop Pro,electronics,Laptop,False,False,False,113,4.52,bestseller,2023-06-24,0.62,True,INR,40359.28,51.9,90.7,116.7
+PRD-00071,Vayu Smartphone Classic,Electronics,Smartphone,True,False,False,479,2.9,"bestseller, clearance",2023-02-20,2.61,False,INR,2383.95,112.5,71.8,115.5
+PRD-00036,Nexon Laptop Pro,Electronics,Laptop,True,False,False,305,2.53,,2022-07-20,2.67,False,INR,109807.46,131.5,43.7,128.8
+PRD-00654,Aravind Generator Unit Max,Industrial,Generator Unit,False,True,False,154,4.4,"bestseller, clearance, eco",2023-04-13,2682.38,False,INR,53480.67,20.1,112.7,23.9
+PRD-00780,Kaveri Textbook 2024,Books,Textbook,False,False,False,180,3.19,"eco, bestseller, premium",2022-07-23,3.6,,INR,66257.61,112.4,21.7,123.4
+PRD-00635,UrbanCraft Medical Kit 2024,Pharma,Medical Kit,False,True,False,641,4.22,"bestseller, new",2021-10-11,4.74 kg,True,INR,170460.19,177.6,10.3,31.7
+PRD-00289,Zenith Bookshelf Classic,Furniture,Bookshelf,True,False,False,43,3.27,"premium, new",2022-04-26,31.09,False,INR,68405.29,20.4,51.3,83.3
+PRD-00014,Aravind Smartphone Lite,Electronics,Smartphone,True,False,False,360,4.7,clearance,2023-01-01,2.99,,INR,152993.82,64.5,35.4,142.5
+PRD-00573,Vayu Medical Kit Classic,Pharma,Medical Kit,False,True,True,161,3.89,"bestseller, premium",2021-11-04,0.39,,INR,16523.6,57.4,112.1,146.1
+PRD-00133,Aravind Vacuum Cleaner Max,Home Appliance,Vacuum Cleaner,True,False,False,690,3.32,,2021-08-13,30.7,,INR,153449.58,93.3,113.2,25.2
+PRD-00639,Vayu Generator Unit Pro,Industrial,Generator Unit,False,True,False,20,4.01,,2022-08-26,740.79,,INR,39419.41,48.2,105.1,134.7
+PRD-00795,UrbanCraft Novel Classic,Books,Novel,False,False,False,43,4.52,,2021-02-11,3.18,True,INR,91824.93,65.8,117.4,67.9
+PRD-00825,Nexon Novel Classic,Books,Novel,True,False,False,-8,4.93,"clearance, bestseller, new",2022-07-13,,,INR,184667.35,,,
+PRD-00465,Nexon Saree,Apparel,Saree,False,False,False,823,4.75,"new, clearance",2023-09-23,,,INR,143547.81,,,
+PRD-00482,Aravind T-Shirt,Apparel,T-Shirt,True,False,False,662,4.19,,2020-11-15,1810.0,,INR,64289.07,108.5,63.6,93.7
+PRD-00806,Vayu Textbook Max,Books,Textbook,False,False,False,524,4.18,"fragile-handle, new, bestseller",2021-10-25,0.77,False,INR,187109.29,78.6,51.1,136.8
+PRD-00204,UrbanCraft Vacuum Cleaner 2024,Home Appliance,Vacuum Cleaner,True,False,False,444,2.8,new,2022-08-03,14.93,,INR,137071.25,130.2,94.7,25.5
+PRD-00323,Nexon Dry Fruits Max,Groceries,Dry Fruits,False,False,False,380,4.71,"fragile-handle, bestseller",2022-01-26,24.15,False,INR,28685.67,146.2,65.9,39.2
+PRD-00678,Vayu Steel Coil,Industrial,Steel Coil,True,True,False,386,4.92,"eco, fragile-handle",2021-01-27,3869.32,False,INR,151377.82,100.3,29.2,29.6
+PRD-00510,Zenith T-Shirt 2024,Apparel,T-Shirt,False,False,False,866,4.62,fragile-handle,2023-03-22,1.42,False,INR,166655.44,113.3,83.0,29.0
+PRD-00461,Meridian Running Shoes Classic,Apparel,Running Shoes,False,False,False,830,4.63,"premium, fragile-handle",2021-07-11,0.62,True,INR,151493.18,155.9,49.5,34.1
+PRD-00311,Kaveri Office Chair Max,Furniture,Office Chair,False,False,False,361,4.08,"eco, bestseller",2022-04-16,109.32,True,INR,3104.7,133.3,15.1,32.4
+PRD-00475,Vayu Running Shoes,Apparel,Running Shoes,False,False,False,464,,,2020-03-10,0.79,,INR,172354.84,40.3,116.3,46.2
+PRD-00139,Aravind Microwave 2024,Home Appliance,Microwave,False,False,False,507,4.75,fragile-handle,2023-03-15,11.74,False,INR,74495.47,156.7,65.2,137.6
+PRD-00111,UrbanCraft Headphones,Electronics,Headphones,False,False,False,439,4.73,"clearance, new, bestseller",2020-10-12,2.54 kg,,INR,125986.09,121.1,80.8,137.1
+PRD-00243,Zenith Bookshelf Lite,Furniture,Bookshelf,True,False,False,308,3.27,"fragile-handle, premium",2022-08-27,51.69,True,INR,183806.92,8.0,111.9,31.4
+PRD-00087,Aravind Smartwatch 2024,Electronics,Smartwatch,True,False,False,819,4.02,bestseller,2021-12-13,0.56,,INR,4030.25,74.3,19.7,26.6
+PRD-00605,Zenith Medical Kit Pro,Pharma,Medical Kit,True,True,True,78,2.66,"clearance, premium, eco",2022-12-23,2.44,False,INR,116281.08,153.0,24.6,99.0
+PRD-00191,Tamira Microwave Lite,Home Appliance,Microwave,True,False,False,203,2.94,,2023-09-16,38.57,True,INR,96462.41,59.7,57.3,96.5
+PRD-00708,Aravind Steel Coil Classic,Industrial,Steel Coil,False,True,False,739,2.96,bestseller,2022-04-15,3386.28,False,INR,53763.81,91.8,23.5,23.1
+PRD-00130,Nexon Air Purifier 2024,Home Appliance,Air Purifier,True,False,False,580,4.54,"eco, clearance",2021-02-21,40.72,,INR,79016.16,169.7,94.9,41.3
+PRD-00077,Aravind Tablet Max,Electronics,Tablet,True,False,False,746,4.03,"premium, bestseller, fragile-handle",2023-02-11,0.35,True,INR,48019.66,25.6,20.6,43.5
+PRD-00830,Tamira Comic Set Classic,Books,Comic Set,False,False,False,743,3.75,"fragile-handle, premium",2021-05-03,0.8,True,INR,162880.94,114.5,55.3,82.1
+PRD-00145,Vayu Mixer Grinder Classic,Home Appliance,Mixer Grinder,False,False,False,373,4.78,"clearance, bestseller",2020-10-04,5.03,False,INR,104030.86,19.2,29.1,37.0
+PRD-00449,Meridian T-Shirt Pro,Apparel,T-Shirt,True,False,False,552,,"fragile-handle, premium, bestseller",2021-10-27,0.93,False,INR,157401.41,109.8,11.0,98.3
+PRD-00230,Nexon Bookshelf Classic,Furniture,Bookshelf,False,False,False,861,3.51,"bestseller, clearance, new",2023-06-20,39.22,True,INR,137773.18,162.4,44.2,55.6
+PRD-00221,Vayu Bookshelf Max,Furniture,Bookshelf,True,False,False,568,3.0,fragile-handle,2023-03-13,41.03,,INR,64170.6,61.1,66.3,44.8
+PRD-00329,Meridian Rice Bag 2024,Groceries,Rice Bag,False,False,False,125,4.52,new,2021-03-13,5.85,True,INR,74362.53,122.3,73.2,97.6
+PRD-00445,Kaveri T-Shirt 2024,Apparel,T-Shirt,False,False,False,51,3.98,,2020-12-24,1.13,True,INR,62499.22,30.1,30.1,137.0
+PRD-00641,Vayu Steel Coil Classic,Industrial,Steel Coil,True,True,False,110,4.8,"premium, clearance",2022-03-15,3448.7,False,INR,164523.41,159.4,43.8,147.7
+PRD-00396,Zenith Cooking Oil 2024,Groceries,Cooking Oil,True,False,False,222,3.25,"fragile-handle, premium, new",2020-10-23,3.2,,INR,159641.88,114.9,14.7,134.6
+PRD-00718,Zenith Steel Coil Classic,Industrial,Steel Coil,False,True,False,256,2.68,,2021-10-18,1158.57,,INR,21535.19,43.0,51.4,63.0
+PRD-00725,UrbanCraft Steel Coil,Industrial,Steel Coil,True,True,False,267,4.23,"bestseller, eco, clearance",2020-01-11,4217.22,,INR,174475.62,89.7,62.1,141.4
+PRD-00614,Kaveri Insulin Pack Lite,pharma,Insulin Pack,False,True,False,-4,2.58,,2023-02-11,1.3,True,INR,61457.52,15.6,77.2,36.3
+PRD-00568,Aravind Medical Kit 2024,Pharma,Medical Kit,True,True,False,180,3.02,eco,2022-04-09,0.95,True,INR,15159.05,74.8,82.9,144.0
+PRD-00582,Aravind Medical Kit Max,pharma,Medical Kit,False,True,False,748,3.45,"new, premium, eco",2023-02-14,2.19,False,INR,30264.25,98.2,22.6,5.9
+PRD-00633,Meridian Vaccine Box Pro,Pharma,Vaccine Box,True,True,True,217,3.2,clearance,2022-11-23,0.2,False,INR,62478.19,,,
+PRD-00732,UrbanCraft Steel Coil Pro,Industrial,Steel Coil,True,True,False,529,,,2023-01-15,2718.15,,INR,169722.52,174.7,17.1,116.9
+PRD-00020,Zenith Laptop,Electronics,Laptop,False,False,False,596,4.99,premium,2021-11-28,2.38,False,INR,145988.22,130.4,12.4,70.6
+PRD-00757,Nexon Textbook Classic,Books,Textbook,True,False,False,883,3.4,"clearance, bestseller, premium",2022-03-08,4.0 kg,False,INR,75848.79,177.7,59.8,25.8
+PRD-00079,Nexon Headphones Pro,Electronics,Headphones,False,False,False,796,4.41,eco,2023-11-07,1.75,False,INR,86624.53,39.4,45.2,10.2
+PRD-00228,Vayu Bookshelf Pro,Furniture,Bookshelf,True,False,False,478,,,2022-06-18,12.06,False,INR,152939.42,174.2,58.5,88.1
+PRD-00165,Kaveri Microwave,Home Appliance,Microwave,True,False,False,402,4.97,"new, premium",2021-10-14,22.64,True,INR,7204.9,70.5,113.6,90.1
+PRD-00702,Tamira Motor Assembly,Industrial,Motor Assembly,True,True,False,158,4.77,"fragile-handle, premium, bestseller",2023-01-29,3104.54,,INR,28263.47,150.0,57.4,33.4
+PRD-00115,Tamira Air Purifier Pro,Home Appliance,Air Purifier,True,False,False,488,2.69,eco,2022-12-22,37.67,,INR,32818.52,,,
+PRD-00060,Nexon Smartphone Classic,Electronics,Smartphone,False,False,False,18,3.89,eco,2023-08-12,1.84,,INR,128881.46,15.2,61.4,126.4
+PRD-00272,Nexon Study Table Lite,Furniture,Study Table,True,False,False,879,4.87,,2020-12-14,95.11,,INR,10855.34,128.1,36.2,120.7
+PRD-00734,UrbanCraft Motor Assembly Max,Industrial,Motor Assembly,False,True,False,874,3.31,bestseller,2023-06-19,643.06,False,INR,91495.43,125.6,88.9,108.0
+PRD-00279,Aravind Office Chair,furniture,Office Chair,False,False,False,113,4.17,"premium, new, bestseller",2021-04-05,106.03,True,INR,6531.24,,,
+PRD-00805,Meridian Comic Set Pro,Books,Comic Set,False,False,False,719,4.4,"clearance, eco",2023-07-26,1.34,,INR,125133.02,112.5,39.8,93.8
+PRD-00615,Nexon Medical Kit Classic,pharma,Medical Kit,True,True,True,154,3.19,bestseller,2021-07-23,3.3,True,INR,44950.79,163.2,71.3,117.9
+PRD-00695,Zenith Steel Coil Classic,Industrial,Steel Coil,False,True,False,427,,"fragile-handle, new",2022-05-20,,,INR,131927.74,,,
+PRD-00091,Aravind Laptop,Electronics,Laptop,True,False,False,-11,3.86,,2023-07-14,1.98,False,INR,124148.79,48.0,94.1,103.0
+PRD-00212,Kaveri Bookshelf 2024,furniture,Bookshelf,False,False,False,217,3.79,"eco, fragile-handle, premium",2021-08-09,92.07,True,INR,15494.77,118.6,44.5,86.2
+PRD-00349,Kaveri Cooking Oil Pro,Groceries,Cooking Oil,True,False,False,71,2.82,"eco, new",2021-09-13,4.14,False,INR,116796.42,126.9,37.0,94.9
+PRD-00758,Tamira Textbook Classic,Books,Textbook,False,False,False,582,2.8,"premium, new, clearance",2022-05-18,0.99,,INR,118461.62,13.8,31.9,40.7
+PRD-00523,Vayu Saree Pro,Apparel,Saree,True,False,False,540,3.14,"fragile-handle, clearance, premium",2022-10-13,1.91,False,INR,28627.92,34.9,7.9,28.5
+PRD-00021,Vayu Tablet 2024,Electronics,Tablet,True,False,False,881,3.89,bestseller,2021-03-21,1.41,True,INR,156779.64,18.9,75.1,11.9
+PRD-00469,Vayu Jacket Max,Apparel,Jacket,True,False,False,254,3.1,"new, premium, bestseller",2022-05-29,0.56,,INR,54959.82,158.4,56.4,94.0
+PRD-00770,Tamira Comic Set Pro,Books,Comic Set,False,False,False,205,2.52,"eco, clearance",2023-10-30,3.48,,INR,94766.34,88.4,8.8,51.3
+PRD-00429,Aravind Running Shoes Lite,Apparel,Running Shoes,False,False,False,597,4.32,"eco, clearance, fragile-handle",2022-04-03,1.42,,INR,142894.71,178.1,45.1,9.4
+PRD-00637,Kaveri Medical Kit,Pharma,Medical Kit,False,True,True,55,3.27,"bestseller, fragile-handle, premium",2023-08-24,4.86,False,INR,52104.19,116.1,85.0,101.2
+PRD-00664,Vayu Steel Coil Pro,Industrial,Steel Coil,True,True,False,247,4.51,"clearance, premium, new",2021-02-05,839.37,,INR,32632.18,174.2,21.9,116.7
+PRD-00488,Zenith Jacket Max,Apparel,Jacket,True,False,False,91,2.53,eco,2023-11-27,0.81,False,INR,130758.36,33.5,32.0,11.1
+PRD-00779,Meridian Textbook Lite,Books,Textbook,False,False,False,-11,4.21,clearance,2021-09-05,1.24,False,INR,84788.2,42.0,114.3,25.5
+PRD-00409,Zenith Rice Bag 2024,Groceries,Rice Bag,False,False,False,662,3.93,"clearance, premium, new",2021-09-02,7.78,True,INR,149720.6,82.6,88.5,10.4
+PRD-00394,Kaveri Cooking Oil Classic,Groceries,Cooking Oil,True,False,False,872,2.8,,2022-09-07,3.08,True,INR,4169.02,44.9,84.0,89.4
+PRD-00103,UrbanCraft Headphones Classic,Electronics,Headphones,False,False,False,220,3.83,premium,2021-03-16,2.65,False,INR,104865.81,56.8,25.1,122.1
+PRD-00173,Tamira Mixer Grinder Max,Home Appliance,Mixer Grinder,True,False,False,553,3.26,bestseller,2023-05-30,20.31,False,INR,87732.04,168.0,40.1,46.2
+PRD-00766,Tamira Textbook,Books,Textbook,True,False,False,237,3.53,premium,2023-01-13,2.87,True,INR,124697.31,127.8,98.9,22.4
+PRD-00519,Meridian T-Shirt 2024,Apparel,T-Shirt,False,False,False,17,3.72,,2023-12-01,1.15,False,INR,182325.31,81.7,106.8,86.9
+PRD-00464,Nexon Jacket Lite,Apparel,Jacket,False,False,False,753,3.41,premium,2022-11-07,0.53,False,INR,83025.5,96.2,28.1,23.4
+PRD-00669,Vayu Motor Assembly Classic,Industrial,Motor Assembly,True,True,False,609,2.58,fragile-handle,2022-06-13,1231.85,False,INR,182755.9,162.4,36.1,40.3
+PRD-00816,Zenith Comic Set,Books,Comic Set,False,False,False,794,4.96,"premium, fragile-handle",2021-04-09,0.86,False,INR,97297.9,132.1,65.8,104.7
+PRD-00419,Nexon Running Shoes Max,Apparel,Running Shoes,True,False,False,556,4.01,,2021-07-18,1.49,False,INR,104333.99,161.5,26.6,49.5
+PRD-00809,Meridian Comic Set Pro,Books,Comic Set,False,False,False,650,3.86,"clearance, bestseller, new",2020-12-23,0.8,True,INR,148340.57,124.6,7.8,109.7
+PRD-00504,Aravind Jacket 2024,Apparel,Jacket,False,False,False,250,3.8,"bestseller, new, fragile-handle",2022-02-22,0.35,False,INR,174617.51,45.9,28.2,94.2
+PRD-00470,Meridian T-Shirt Max,Apparel,T-Shirt,False,False,False,822,2.76,bestseller,2023-09-08,1.65,True,INR,145071.68,12.4,87.4,34.6
+PRD-00039,Meridian Headphones Lite,Electronics,Headphones,False,False,False,66,4.38,"eco, clearance",2021-03-30,1.0,False,INR,18618.62,86.0,34.9,99.0
+PRD-00270,Tamira Bookshelf Pro,furniture,Bookshelf,True,False,False,187,3.06,"fragile-handle, premium",2021-10-11,89.68,True,INR,79323.17,91.8,6.0,72.7
+PRD-00113,UrbanCraft Microwave Lite,Home Appliance,Microwave,True,False,False,545,4.85,"clearance, new",2022-06-23,22.31,False,INR,54718.95,120.4,110.6,16.5
+PRD-00455,Tamira Saree,Apparel,Saree,True,False,False,622,4.34,"new, bestseller",2021-09-06,260.0,False,INR,111503.47,106.4,52.3,20.5
+PRD-00400,Kaveri Rice Bag,Groceries,Rice Bag,False,False,False,397,3.34,clearance,2022-01-11,9.96,True,INR,140063.44,95.4,15.5,50.4
+PRD-00189,Nexon Air Purifier Pro,Home Appliance,Air Purifier,True,False,False,104,3.13,,2020-11-15,16.45,True,INR,87091.5,17.3,115.1,108.9
+PRD-00777,Vayu Textbook Lite,Books,Textbook,False,False,False,266,3.76,,2022-04-14,1.9,,INR,90116.17,72.3,113.1,7.3
+PRD-00546,Zenith Vaccine Box Pro,Pharma,Vaccine Box,False,True,True,575,3.27,"eco, clearance, bestseller",2021-05-22,1.01,,INR,161825.32,178.7,27.6,132.2
+PRD-00586,UrbanCraft Medical Kit Pro,Pharma,Medical Kit,True,True,True,45,3.61,"clearance, fragile-handle",2021-02-24,4.56,False,INR,120412.65,158.3,116.2,20.4
+PRD-00683,Nexon Steel Coil Max,Industrial,Steel Coil,False,True,False,728,4.2,clearance,2023-02-04,,,INR,176263.96,,,
+PRD-00120,Aravind Microwave Classic,Home Appliance,Microwave,True,False,False,105,2.52,bestseller,2020-12-14,40.01,,INR,60126.45,55.3,110.5,113.3
+PRD-00781,UrbanCraft Comic Set Max,Books,Comic Set,True,False,False,822,2.58,fragile-handle,2020-03-10,1.06,True,INR,90097.75,38.4,75.0,132.4
+PRD-00508,Aravind Jacket 2024,Apparel,Jacket,False,False,False,139,3.42,bestseller,2023-09-30,0.29,True,INR,111510.27,76.8,70.2,16.1
+PRD-00590,Tamira Insulin Pack Pro,Pharma,Insulin Pack,False,True,True,660,3.53,"eco, clearance",2020-12-21,0.79,,INR,26972.46,172.2,76.5,77.6
+PRD-00687,Kaveri Generator Unit Max,Industrial,Generator Unit,False,True,False,756,3.4,"new, clearance, fragile-handle",2021-03-20,4405920.0,True,INR,111611.32,61.5,73.1,62.8
+PRD-00835,Aravind Novel,Books,Novel,True,False,False,403,4.58,"premium, eco",2022-09-30,3.0,False,INR,45830.4,61.4,27.5,149.4
+PRD-00440,Zenith Saree Classic,Apparel,Saree,False,False,False,7,3.82,"bestseller, eco, clearance",2020-12-01,1.48,True,INR,86691.47,132.6,63.9,131.8
+PRD-00651,Zenith Motor Assembly,Industrial,Motor Assembly,False,True,False,430,4.84,"clearance, eco",2022-07-16,2477.87,False,INR,176963.25,,,
+PRD-00054,UrbanCraft Laptop Classic,Electronics,Laptop,False,False,False,548,,"eco, fragile-handle, bestseller",2021-09-15,2.18,False,INR,50487.92,60.2,7.1,85.4
+PRD-00427,Kaveri T-Shirt Pro,Apparel,T-Shirt,False,False,False,-2,3.77,,2023-11-05,1.59,,INR,125097.75,90.8,53.5,107.3
+PRD-00009,Zenith Tablet Classic,Electronics,Tablet,True,False,False,658,,,2021-02-21,0.36,,INR,86996.63,174.6,54.0,24.9
+PRD-00018,Tamira Smartphone,Electronics,Smartphone,False,False,False,315,2.75,,2022-04-03,2.53,,INR,87959.14,104.9,118.7,12.9
+PRD-00833,Aravind Textbook Pro,Books,Textbook,True,False,False,517,,eco,2022-05-05,3.02,False,INR,188066.56,139.9,39.1,99.9
+PRD-00838,Meridian Textbook Max,Books,Textbook,False,False,False,365,3.47,,2022-03-27,0.78,,INR,175001.39,32.4,69.6,94.7
+PRD-00388,Meridian Spice Pack Pro,Groceries,Spice Pack,False,False,False,97,3.24,"bestseller, premium",2021-12-04,14.96,True,INR,135614.03,61.7,85.7,28.5
+PRD-00657,UrbanCraft Motor Assembly Classic,Industrial,Motor Assembly,False,True,False,241,3.12,,2022-03-09,2593.22,False,INR,116033.76,,,
+PRD-00003,Meridian Headphones Classic,Electronics,Headphones,True,False,False,643,4.28,new,2022-03-08,2.09,False,INR,63227.1,134.4,7.2,83.1
+PRD-00387,Aravind Spice Pack 2024,Groceries,Spice Pack,False,False,False,320,4.66,"bestseller, eco",2023-12-05,22.43,,INR,147813.83,140.1,49.2,81.3
+PRD-00739,Vayu Steel Coil Pro,Industrial,Steel Coil,False,True,False,781,2.8,"eco, bestseller, premium",2022-08-30,1385.46,True,INR,1859.3,159.6,53.9,104.4
+PRD-00724,Tamira Motor Assembly Max,Industrial,Motor Assembly,True,True,False,448,3.46,"new, clearance",2023-10-21,3102.97,,INR,166795.35,8.0,25.2,71.3
+PRD-00553,Meridian Medical Kit Pro,Pharma,Medical Kit,True,True,True,593,4.47,"bestseller, clearance, fragile-handle",2021-12-06,3.32,,INR,116610.59,147.0,39.2,26.5
+PRD-00594,Tamira Insulin Pack,Pharma,Insulin Pack,False,True,False,697,4.05,"eco, premium",2021-07-15,3.15,False,INR,135974.03,109.7,27.5,81.6
+PRD-00052,Zenith Smartphone Pro,Electronics,Smartphone,True,False,False,441,3.78,"fragile-handle, clearance, bestseller",2021-08-26,1.81,False,INR,64766.59,54.7,78.6,17.1
+PRD-00138,UrbanCraft Mixer Grinder Classic,Home Appliance,Mixer Grinder,False,False,False,143,3.41,,2020-09-26,16.03,False,INR,71580.74,150.7,78.2,9.6
+PRD-00123,Kaveri Mixer Grinder Lite,Home Appliance,Mixer Grinder,True,False,False,722,,"bestseller, fragile-handle, clearance",2022-03-01,19.08,True,INR,27405.53,150.2,40.2,13.9
+PRD-00607,Nexon Vaccine Box Pro,Pharma,Vaccine Box,True,True,False,727,3.08,"fragile-handle, clearance",2021-08-09,4.73,False,INR,173559.66,90.1,56.7,38.5
+PRD-00515,UrbanCraft Saree Max,Apparel,Saree,False,False,False,566,3.7,"fragile-handle, bestseller",2022-08-04,0.52,,INR,186935.79,44.5,99.0,56.6
+PRD-00371,Meridian Cooking Oil,Groceries,Cooking Oil,False,False,False,188,3.31,bestseller,2022-12-07,13.29,,INR,133063.75,16.4,34.7,118.3
+PRD-00390,Nexon Spice Pack Lite,Groceries,Spice Pack,True,False,False,226,3.17,"bestseller, fragile-handle",2022-10-16,11.93,True,INR,67573.09,113.5,37.1,108.5
+PRD-00685,UrbanCraft Motor Assembly Lite,Industrial,Motor Assembly,False,True,False,647,2.86,,2021-07-09,3021.2,False,INR,134816.5,157.5,90.1,107.3
+PRD-00673,Vayu Steel Coil Pro,Industrial,Steel Coil,True,True,False,845,4.35,bestseller,2023-03-15,3550.95,,INR,66829.5,123.8,61.6,90.5
+PRD-00659,Kaveri Generator Unit Max,Industrial,Generator Unit,False,True,False,232,4.75,fragile-handle,2021-07-20,326.44,False,INR,185101.28,116.4,105.6,143.5
+PRD-00559,Kaveri Insulin Pack Classic,Pharma,Insulin Pack,True,True,True,361,4.91,,2022-12-21,1.5,True,INR,638.72,86.7,70.5,142.4
+PRD-00326,Nexon Dry Fruits Pro,Groceries,Dry Fruits,True,False,False,451,2.53,"fragile-handle, bestseller, premium",2020-11-06,6.67,,INR,118536.23,7.8,52.0,62.0
+PRD-00747,Tamira Comic Set Max,Books,Comic Set,False,False,False,543,3.93,,2022-10-08,1.53,False,INR,133652.42,157.9,96.1,109.0
+PRD-00421,Tamira Saree Pro,Apparel,Saree,False,False,False,52,2.76,clearance,2021-07-15,1.05,False,INR,65359.91,75.3,44.8,33.4
+PRD-00411,Vayu Dry Fruits Classic,Groceries,Dry Fruits,True,False,False,860,2.84,premium,2022-02-13,15.54,True,INR,143606.8,6.2,37.3,48.0
+PRD-00305,Nexon Recliner Pro,Furniture,Recliner,False,False,False,764,4.56,"fragile-handle, premium",2020-12-12,,,INR,46055.4,,,
+PRD-00490,Kaveri Running Shoes Classic,apparel,Running Shoes,False,False,False,124,2.99,,2021-09-05,0.47,False,INR,38643.5,159.7,60.2,17.4
+PRD-00210,Zenith Recliner Max,Furniture,Recliner,True,False,False,285,4.73,fragile-handle,2022-02-17,55.65,,INR,10761.65,114.0,17.4,39.9
+PRD-00417,Nexon T-Shirt Max,Apparel,T-Shirt,True,False,False,260,2.95,"eco, premium",2023-04-24,0.65,,INR,152233.84,146.0,26.8,92.6
+PRD-00783,Nexon Textbook Pro,Books,Textbook,True,False,False,587,4.5,clearance,2020-09-30,2.27,,INR,85931.41,151.1,67.7,128.6
+PRD-00592,Nexon Insulin Pack,Pharma,Insulin Pack,True,True,False,196,4.51,"bestseller, fragile-handle, clearance",2021-12-21,3.64,False,INR,147910.78,29.8,26.6,58.8
+PRD-00290,Vayu Office Chair Max,Furniture,Office Chair,False,False,False,613,4.02,"clearance, new",2022-07-31,76.45,True,INR,118999.29,90.4,74.3,138.3
+PRD-00008,UrbanCraft Smartwatch Classic,Electronics,Smartwatch,True,False,False,609,5.0,,2022-11-06,0.58,True,INR,78978.72,52.4,54.2,29.7
+PRD-00746,Aravind Textbook Lite,books,Textbook,True,False,False,86,3.55,"fragile-handle, premium, eco",2022-09-06,0.83,False,INR,64361.73,25.9,80.0,17.1
+PRD-00380,Aravind Rice Bag Max,Groceries,Rice Bag,False,False,False,644,2.55,"fragile-handle, new",2022-05-21,10.98,,INR,138092.97,59.5,104.0,11.0
+PRD-00672,Kaveri Generator Unit Classic,Industrial,Generator Unit,True,True,False,813,2.73,,2022-10-31,431.71,True,INR,123765.82,139.0,29.7,29.1
+PRD-00397,Kaveri Spice Pack Classic,Groceries,Spice Pack,True,False,False,231,4.82,,2022-09-12,15.85,False,INR,188212.3,155.5,49.0,142.5
+PRD-00404,Kaveri Cooking Oil Lite,Groceries,Cooking Oil,False,False,False,263,3.1,"bestseller, premium, new",2023-08-09,1.06 kg,True,INR,124690.09,165.2,103.8,59.1
+PRD-00535,Kaveri Running Shoes Lite,Apparel,Running Shoes,True,False,False,616,4.33,eco,2021-04-21,0.81,,INR,28997.73,132.5,99.4,142.8
+PRD-00175,Zenith Mixer Grinder 2024,Home Appliance,Mixer Grinder,False,False,False,558,4.9,eco,2021-09-08,23.79,,INR,105147.96,88.7,66.3,31.3
+PRD-00258,Aravind Study Table Lite,Furniture,Study Table,False,False,False,208,,new,2023-01-12,12.19,False,INR,82683.79,57.0,31.0,40.6
+PRD-00073,UrbanCraft Smartwatch Classic,Electronics,Smartwatch,True,False,False,788,4.61,fragile-handle,2022-10-26,0.48,True,INR,156160.25,42.0,36.3,15.8
+PRD-00513,UrbanCraft T-Shirt Pro,Apparel,T-Shirt,False,False,False,584,3.44,"bestseller, premium",2022-10-01,0.46,,INR,4454.89,64.7,42.1,93.6
+PRD-00709,Aravind Motor Assembly Classic,Industrial,Motor Assembly,False,True,False,42,3.91,,2022-03-14,1412.39,True,INR,125193.89,85.9,61.2,81.6
+PRD-00525,Zenith Jacket Max,Apparel,Jacket,False,False,False,838,2.98,"premium, new, fragile-handle",2022-03-20,0.69,False,INR,136314.35,34.8,74.4,11.4
+PRD-00760,Vayu Textbook Pro,Books,Textbook,False,False,False,786,3.63,,2021-07-12,2.52,False,INR,186249.84,173.9,103.1,66.4
+PRD-00808,Zenith Comic Set Pro,Books,Comic Set,False,False,False,850,4.6,"new, bestseller, eco",2021-04-27,3.49,False,INR,105799.79,60.6,78.2,2.6
+PRD-00684,Aravind Motor Assembly,Industrial,Motor Assembly,False,True,False,755,4.15,"premium, fragile-handle, bestseller",2020-09-12,877.53,False,INR,144863.45,57.7,77.9,139.1
+PRD-00245,UrbanCraft Office Chair,Furniture,Office Chair,True,False,False,467,3.43,"new, eco",2023-01-31,93.32,False,INR,158779.28,73.4,74.6,84.0
+PRD-00167,Aravind Vacuum Cleaner Max,Home Appliance,Vacuum Cleaner,True,False,False,858,3.99,,2023-03-16,26.47,,INR,106328.03,157.3,49.6,37.4
+PRD-00016,UrbanCraft Laptop Max,Electronics,Laptop,True,False,False,62,4.42,,2020-11-18,2.5,True,INR,83021.17,100.4,38.6,142.3
+PRD-00831,UrbanCraft Textbook 2024,Books,Textbook,False,False,False,53,4.35,premium,2023-10-05,1.73,False,INR,86202.72,96.9,52.5,15.4
+PRD-00666,Zenith Steel Coil Classic,Industrial,Steel Coil,False,True,False,135,4.02,fragile-handle,2023-07-29,1441.8,False,INR,18111.9,131.2,19.2,67.5
+PRD-00433,UrbanCraft Jacket 2024,apparel,Jacket,False,False,False,138,,eco,2020-10-22,0.57,True,INR,49556.42,136.9,101.2,101.5
+PRD-00466,Tamira Saree Max,Apparel,Saree,False,False,False,58,3.99,bestseller,2020-11-17,,,INR,181867.03,,,
+PRD-00028,Vayu Laptop Lite,Electronics,Laptop,True,False,False,450,4.17,"new, bestseller, premium",2021-11-12,0.59,False,INR,150012.06,172.2,16.1,135.8
+PRD-00730,Nexon Generator Unit,Industrial,Generator Unit,True,True,False,279,4.51,"new, bestseller, eco",2021-02-16,920.71,True,INR,22141.34,22.1,107.0,105.5
+PRD-00202,Vayu Air Purifier Classic,Home Appliance,Air Purifier,False,False,False,184,2.74,"premium, bestseller, clearance",2021-01-27,26.93,False,INR,177352.53,171.6,98.0,55.0
+PRD-00317,UrbanCraft Spice Pack 2024,Groceries,Spice Pack,True,False,False,859,3.79,"fragile-handle, bestseller, clearance",2022-06-03,7.71,False,INR,58293.51,164.6,93.2,75.5
+PRD-00534,Tamira Running Shoes 2024,Apparel,Running Shoes,True,False,False,-19,4.03,"premium, new",2022-07-13,0.52,True,INR,106557.25,111.8,46.5,44.7
+PRD-00156,Aravind Air Purifier Pro,Home Appliance,Air Purifier,True,False,False,804,4.1,"new, clearance",2021-07-09,18.95,,INR,144365.19,146.4,93.3,10.2
+PRD-00033,Zenith Laptop,electronics,Laptop,True,False,False,549,4.31,,2021-04-29,0.43,,INR,179832.26,76.0,73.4,78.8
+PRD-00613,Kaveri Insulin Pack,Pharma,Insulin Pack,True,True,False,892,4.26,bestseller,2020-10-22,0.35,False,INR,134762.82,,,
+PRD-00042,Tamira Smartwatch 2024,Electronics,Smartwatch,True,False,False,474,4.66,fragile-handle,2022-06-03,2.84,,INR,112197.48,90.6,20.4,86.1
+PRD-00727,UrbanCraft Generator Unit Max,Industrial,Generator Unit,False,True,False,431,,clearance,2023-03-05,1570.62,True,INR,132417.8,45.6,65.6,139.7
+PRD-00828,UrbanCraft Comic Set Max,Books,Comic Set,False,False,False,186,3.29,new,2022-07-08,3.14,True,INR,112522.14,7.6,80.1,118.5
+PRD-00081,Aravind Smartphone Pro,Electronics,Smartphone,True,False,False,352,3.33,new,2022-04-20,1.15,True,INR,36821.47,63.6,44.7,18.5
+PRD-00505,Aravind T-Shirt Pro,Apparel,T-Shirt,False,False,False,766,2.97,"fragile-handle, premium",2023-08-06,,,INR,184181.15,,,
+PRD-00642,Meridian Generator Unit Max,Industrial,Generator Unit,False,True,False,599,4.59,new,2023-07-31,1106.33,False,INR,173139.91,79.7,47.9,98.1
+PRD-00315,Kaveri Spice Pack Pro,Groceries,Spice Pack,False,False,False,37,2.59,new,2022-07-22,19.77,False,INR,100314.22,17.5,10.5,7.3
+PRD-00375,UrbanCraft Spice Pack Max,Groceries,Spice Pack,True,False,False,464,2.89,"clearance, eco",2023-08-28,2.36,False,INR,154022.56,26.4,69.2,68.4
+PRD-00200,Tamira Vacuum Cleaner Pro,Home Appliance,Vacuum Cleaner,True,False,False,339,3.71,"bestseller, new",2021-12-21,29.18,False,INR,75117.53,136.0,89.7,30.0
+PRD-00006,UrbanCraft Tablet,Electronics,Tablet,True,False,False,117,4.94,"bestseller, clearance",2021-10-14,1.27,False,INR,1905.14,109.4,105.0,58.1
+PRD-00785,Meridian Novel Pro,Books,Novel,True,False,False,337,2.72,,2022-11-04,1.03,,INR,18855.52,153.7,83.2,117.4
+PRD-00332,UrbanCraft Dry Fruits Pro,Groceries,Dry Fruits,False,False,False,217,3.62,clearance,2023-07-18,8.2,True,INR,40424.79,38.7,86.5,90.7
+PRD-00716,Tamira Steel Coil 2024,Industrial,Steel Coil,False,True,False,886,3.95,fragile-handle,2023-02-08,3727.08,False,INR,140672.46,,,
+PRD-00283,Vayu Study Table Pro,Furniture,Study Table,False,False,False,199,2.79,"bestseller, new",2022-07-21,26.73 kg,False,INR,168234.89,86.9,50.0,144.9
+PRD-00733,Nexon Steel Coil 2024,Industrial,Steel Coil,False,True,False,70,4.17,"bestseller, fragile-handle",2020-11-17,4168.34,True,INR,174524.5,89.0,47.1,2.6
+PRD-00355,Meridian Cooking Oil,Groceries,Cooking Oil,False,False,False,880,3.39,,2021-10-08,9.73,False,INR,18954.07,141.6,92.6,133.0
+PRD-00143,Vayu Air Purifier Lite,Home Appliance,Air Purifier,False,False,False,105,4.76,"new, clearance",2023-10-24,,,INR,49364.65,,,
+PRD-00531,Meridian Running Shoes,Apparel,Running Shoes,False,False,False,300,3.68,"new, premium, clearance",2023-11-26,0.82,True,INR,103312.75,126.8,17.8,6.5
+PRD-00430,Vayu Running Shoes Classic,Apparel,Running Shoes,False,False,False,415,4.92,"eco, bestseller",2021-01-22,,,INR,188496.08,,,
+PRD-00310,Kaveri Office Chair 2024,Furniture,Office Chair,False,False,False,477,4.84,"eco, fragile-handle, bestseller",2022-08-16,109.16,True,INR,33389.14,84.1,64.5,132.8
+PRD-00522,Kaveri Running Shoes Pro,Apparel,Running Shoes,False,False,False,78,4.03,new,2023-07-27,1.13,,INR,154814.09,168.7,16.0,124.8
+PRD-00784,Vayu Novel 2024,Books,Novel,False,False,False,734,,bestseller,2020-12-23,2.15,False,INR,179779.66,17.3,14.7,36.6
+PRD-00587,Meridian Vaccine Box Classic,Pharma,Vaccine Box,True,True,False,107,3.88,"bestseller, eco",2022-09-22,3.58,,INR,111443.31,177.3,11.4,15.5
+PRD-00632,Nexon Insulin Pack,Pharma,Insulin Pack,True,True,False,384,3.09,"premium, fragile-handle",2022-07-09,2.43,False,INR,140920.66,49.1,90.0,88.6
+PRD-00477,Kaveri Running Shoes,Apparel,Running Shoes,False,False,False,135,2.74,"eco, fragile-handle, premium",2020-01-12,0.61,,INR,13831.51,39.0,116.8,133.9
+PRD-00294,Nexon Study Table,Furniture,Study Table,True,False,False,445,4.44,premium,2023-09-09,73.11,False,INR,91375.26,47.3,78.1,10.2
+PRD-00082,Kaveri Smartwatch Pro,Electronics,Smartwatch,True,False,False,90,4.3,,2021-02-05,1.04,False,INR,102226.09,17.0,99.5,5.2
+PRD-00027,Kaveri Laptop Lite,Electronics,Laptop,True,False,False,165,3.46,,2023-08-10,2.0,True,INR,51361.65,154.3,32.1,141.2
+PRD-00101,Zenith Tablet Max,Electronics,Tablet,False,False,False,534,4.47,bestseller,2023-04-02,1.69,True,INR,139710.87,117.6,64.8,143.9
+PRD-00058,Tamira Smartphone Max,Electronics,Smartphone,False,False,False,414,4.3,,2022-07-24,,,INR,162979.27,,,
+PRD-00192,Tamira Mixer Grinder 2024,Home Appliance,Mixer Grinder,False,False,False,771,4.65,"premium, fragile-handle",2023-05-01,17.69,False,INR,46315.28,65.8,26.9,55.7
+PRD-00235,Meridian Office Chair Lite,Furniture,Office Chair,False,False,False,720,3.28,"clearance, fragile-handle, eco",2021-01-05,94.41,False,INR,124352.26,67.5,68.1,69.9
+PRD-00775,Aravind Novel Pro,Books,Novel,True,False,False,595,3.11,"clearance, new, bestseller",2023-02-02,1.42,False,INR,75534.94,23.2,37.4,46.1
+PRD-00756,UrbanCraft Novel Pro,Books,Novel,False,False,False,854,4.64,"premium, bestseller, clearance",2023-05-13,0.94,True,INR,166335.45,179.3,35.7,34.2
+PRD-00385,Kaveri Dry Fruits Max,Groceries,Dry Fruits,False,False,False,739,2.63,"bestseller, premium",2021-11-14,19.31,,INR,138485.1,127.5,72.3,4.6
+PRD-00803,Aravind Comic Set Pro,Books,Comic Set,False,False,False,567,3.8,,2021-12-11,2.4,False,INR,37604.28,118.2,41.6,42.7
+PRD-00793,Nexon Novel Classic,Books,Novel,True,False,False,195,4.86,"eco, premium",2023-04-28,3.26,,INR,71535.98,53.6,8.7,82.4
+PRD-00467,Vayu T-Shirt Lite,Apparel,T-Shirt,False,False,False,581,3.47,"fragile-handle, bestseller",2023-07-03,0.79,,INR,52608.04,80.2,45.3,49.9
+PRD-00438,Kaveri Jacket Lite,Apparel,Jacket,False,False,False,732,4.11,"premium, new, eco",2021-10-24,1.0,,INR,49084.38,95.8,12.8,134.2
+PRD-00742,Nexon Steel Coil,Industrial,Steel Coil,True,True,False,67,,"new, bestseller",2023-06-16,,,INR,137984.71,,,
+PRD-00459,Kaveri T-Shirt Pro,Apparel,T-Shirt,False,False,False,652,4.07,bestseller,2023-06-08,1.23,False,INR,164398.58,94.3,114.0,134.7
+PRD-00579,Zenith Medical Kit Max,Pharma,Medical Kit,True,True,False,-5,4.11,"eco, clearance, premium",2023-04-13,2.32,True,INR,180793.83,167.2,13.9,82.0
+PRD-00259,Nexon Study Table Classic,furniture,Study Table,True,False,False,877,4.13,"fragile-handle, eco, premium",2023-06-02,119.67,False,INR,148990.19,54.7,47.6,21.3
+PRD-00583,Tamira Vaccine Box 2024,Pharma,Vaccine Box,True,True,False,364,3.38,"fragile-handle, new",2020-09-29,0.51,False,INR,127646.42,35.9,52.8,49.8
+PRD-00242,Nexon Office Chair Classic,Furniture,Office Chair,False,False,False,51,,"fragile-handle, premium, new",2023-04-20,107.54,True,INR,114643.95,62.5,38.7,52.5
+PRD-00502,Tamira Saree Pro,Apparel,Saree,False,False,False,79,3.1,,2022-07-31,0.79,,INR,173075.18,,,
+PRD-00254,Aravind Study Table Classic,Furniture,Study Table,False,False,False,729,3.83,eco,2022-11-10,55.76,,INR,103173.78,37.7,21.3,102.3
+PRD-00499,Meridian Saree Classic,Apparel,Saree,True,False,False,725,4.11,"clearance, bestseller, premium",2022-11-11,1.81,False,INR,71756.81,12.5,90.4,113.5
+PRD-00121,Tamira Vacuum Cleaner Pro,Home Appliance,Vacuum Cleaner,True,False,False,346,,"premium, new, clearance",2020-09-20,20.77,True,INR,120447.66,137.0,93.5,117.7
+PRD-00514,Meridian Saree Classic,Apparel,Saree,False,False,False,178,4.89,"premium, new",2022-05-19,,,INR,145947.24,,,
+PRD-00094,Nexon Smartphone Classic,Electronics,Smartphone,False,False,False,315,2.51,fragile-handle,2023-07-21,2.91,False,INR,14229.58,164.9,12.9,110.8
+PRD-00214,Nexon Bookshelf Max,Furniture,Bookshelf,True,False,False,378,4.13,"premium, fragile-handle",2023-11-12,66.21,False,INR,98625.49,156.7,56.1,93.4
+PRD-00144,Aravind Mixer Grinder,Home Appliance,Mixer Grinder,True,False,False,811,4.51,clearance,2022-06-02,36490.0,True,INR,154848.0,23.6,10.7,89.4
+PRD-00537,Nexon Jacket Max,Apparel,Jacket,False,False,False,128,3.22,"bestseller, fragile-handle",2022-06-02,1.1,True,INR,25145.5,27.3,40.6,47.9
+PRD-00284,Kaveri Study Table,Furniture,Study Table,True,False,False,829,2.64,"new, fragile-handle, premium",2021-02-19,54.99,False,INR,55739.34,93.9,96.4,146.2
+PRD-00631,Tamira Insulin Pack Pro,Pharma,Insulin Pack,False,True,False,701,4.65,"eco, new",2020-11-15,0.58,True,INR,31260.39,130.4,25.2,34.4
+PRD-00142,Nexon Vacuum Cleaner Classic,Home Appliance,Vacuum Cleaner,True,False,False,580,3.89,"bestseller, premium, fragile-handle",2023-06-01,35.67,,INR,112244.6,171.6,101.4,138.0
+PRD-00796,Vayu Textbook 2024,Books,Textbook,False,False,False,145,2.96,,2023-09-09,1.13,True,INR,58384.97,68.9,97.9,77.3
+PRD-00437,UrbanCraft T-Shirt Lite,apparel,T-Shirt,True,False,False,430,4.84,"premium, new, eco",2022-05-27,0.64,,INR,147014.32,110.2,48.6,40.0
+PRD-00065,Vayu Tablet Classic,Electronics,Tablet,True,False,False,322,3.4,"bestseller, premium",2022-05-24,0.53,True,INR,81571.21,93.2,57.5,7.5
+PRD-00132,Kaveri Air Purifier Max,Home Appliance,Air Purifier,False,False,False,480,4.53,,2023-07-02,17440.0,,INR,124909.81,57.7,27.8,137.8
+PRD-00761,Kaveri Textbook Pro,Books,Textbook,False,False,False,94,3.5,"new, clearance, bestseller",2022-06-12,2.8,True,INR,141358.54,24.8,75.7,124.3
+PRD-00350,Vayu Rice Bag Max,groceries,Rice Bag,False,False,False,9,2.7,,2022-03-21,3.8,False,INR,85363.0,29.1,71.3,21.8
+PRD-00496,UrbanCraft Running Shoes Pro,Apparel,Running Shoes,True,False,False,44,2.59,"new, eco",2021-03-21,0.64,,INR,174724.53,125.8,104.9,121.2
+PRD-00316,Aravind Dry Fruits Max,Groceries,Dry Fruits,False,False,False,819,3.36,"bestseller, clearance, premium",2022-04-24,20.71,True,INR,142420.1,113.0,69.2,122.8
+PRD-00187,Aravind Vacuum Cleaner 2024,Home Appliance,Vacuum Cleaner,True,False,False,310,4.18,premium,2021-08-20,32.93 kg,True,INR,38293.09,96.3,18.8,19.9
+PRD-00051,Vayu Headphones Classic,Electronics,Headphones,True,False,False,303,4.24,"premium, new",2021-09-02,1.06,False,INR,72594.24,121.4,105.9,19.9
+PRD-00271,Kaveri Recliner 2024,Furniture,Recliner,False,False,False,115,4.91,"premium, bestseller",2023-07-16,117.93,False,INR,111766.8,111.6,51.0,114.8
+PRD-00581,Vayu Vaccine Box,Pharma,Vaccine Box,True,True,False,97,3.12,bestseller,2020-09-22,0.42,False,INR,168624.97,171.5,5.0,118.9
+PRD-00134,Zenith Air Purifier Classic,Home Appliance,Air Purifier,True,False,False,836,4.16,"eco, premium, new",2022-02-27,19.7,True,INR,142287.03,141.0,6.2,122.3
+PRD-00495,Vayu Saree Lite,Apparel,Saree,True,False,False,758,3.35,"fragile-handle, eco",2023-10-22,1.88,True,INR,24306.56,156.9,73.2,77.5
+PRD-00520,Vayu T-Shirt 2024,Apparel,T-Shirt,False,False,False,788,3.75,premium,2022-04-01,0.69,,INR,105619.75,48.1,50.3,70.2
+PRD-00791,Zenith Comic Set Max,Books,Comic Set,False,False,False,620,3.72,,2021-03-03,1.0,False,INR,26279.03,136.0,100.2,81.8
+PRD-00341,Zenith Dry Fruits Classic,Groceries,Dry Fruits,False,False,False,662,4.03,"premium, new, bestseller",2023-03-26,20.76,,INR,32824.49,70.0,22.9,120.8
+PRD-00744,Nexon Comic Set Pro,Books,Comic Set,True,False,False,534,4.6,fragile-handle,2023-08-21,0.59,False,INR,43982.97,140.6,74.2,146.0
+PRD-00729,Kaveri Generator Unit 2024,Industrial,Generator Unit,False,True,False,215,4.82,premium,2022-09-02,4388.83,True,INR,46579.95,50.1,105.7,65.7
+PRD-00322,Tamira Spice Pack Lite,Groceries,Spice Pack,False,False,False,722,4.0,"bestseller, clearance, eco",2023-02-12,23.72,,INR,60125.61,97.8,93.6,117.7
+PRD-00564,Zenith Vaccine Box,Pharma,Vaccine Box,True,True,False,76,4.36,"new, eco",2021-09-23,1.82 kg,False,INR,54454.99,9.1,34.3,30.8
+PRD-00638,Vayu Medical Kit Max,Pharma,Medical Kit,False,True,False,782,2.93,,2021-08-26,3.5,True,INR,14796.93,161.1,33.4,74.1
+PRD-00086,Kaveri Tablet Lite,electronics,Tablet,True,False,False,80,4.22,"fragile-handle, premium",2021-01-25,1.7,False,INR,157139.74,8.4,6.2,3.5
+PRD-00406,Kaveri Cooking Oil Lite,groceries,Cooking Oil,False,False,False,354,4.78,bestseller,2021-09-01,15.75,False,INR,177837.85,104.8,19.1,112.1
+PRD-00374,Meridian Cooking Oil Classic,Groceries,Cooking Oil,True,False,False,21,4.52,,2023-04-30,1.7,,INR,111434.08,5.9,11.5,79.8
+PRD-00068,Meridian Smartphone,Electronics,Smartphone,False,False,False,689,3.93,clearance,2022-10-24,1.79,False,INR,180253.96,141.4,8.9,131.7
+PRD-00100,Nexon Laptop Classic,Electronics,Laptop,True,False,False,520,4.36,"fragile-handle, bestseller, premium",2022-08-18,2.98,,INR,76892.69,121.3,46.5,123.2
+PRD-00361,Nexon Cooking Oil Max,groceries,Cooking Oil,False,False,False,495,3.34,"new, premium",2021-10-27,6.3,False,INR,51345.02,113.3,78.4,21.7
+PRD-00131,Aravind Air Purifier Max,Home Appliance,Air Purifier,False,False,False,842,2.98,clearance,2022-03-12,26.91,False,INR,148874.72,121.8,83.8,87.9
+PRD-00005,Aravind Tablet 2024,Electronics,Tablet,True,False,False,618,2.97,fragile-handle,2023-05-03,1.31,False,INR,11591.58,26.6,54.8,22.9
+PRD-00135,Aravind Air Purifier,home appliance,Air Purifier,True,False,False,278,4.95,"new, premium, eco",2021-11-09,4.28,False,INR,20037.11,70.4,79.5,7.8
+PRD-00571,Meridian Vaccine Box 2024,Pharma,Vaccine Box,True,True,False,259,3.11,fragile-handle,2021-12-28,3.13,,INR,104601.69,125.0,103.7,88.0
+PRD-00354,Nexon Spice Pack 2024,Groceries,Spice Pack,True,False,False,314,3.35,"fragile-handle, new",2022-01-26,24.88,False,INR,136429.92,58.0,15.7,61.7
+PRD-00382,Kaveri Dry Fruits Classic,Groceries,Dry Fruits,False,False,False,36,2.91,"new, fragile-handle",2022-09-14,18.19,,INR,93985.6,48.9,49.7,131.3
+PRD-00163,Vayu Mixer Grinder Max,Home Appliance,Mixer Grinder,False,False,False,141,3.52,,2020-09-29,7.18,False,INR,77058.49,,,
+PRD-00585,Nexon Medical Kit Max,Pharma,Medical Kit,True,True,False,50,4.98,"new, clearance",2021-06-15,2.25,,INR,130113.13,39.1,34.3,97.9
+PRD-00198,Aravind Air Purifier Lite,Home Appliance,Air Purifier,False,False,False,754,3.01,premium,2022-04-30,40.04,,INR,95875.59,57.2,31.4,60.4
+PRD-00655,Aravind Generator Unit,Industrial,Generator Unit,False,True,False,132,2.99,new,2023-04-24,3351.13,False,INR,184524.68,162.7,58.5,119.3
+PRD-00567,UrbanCraft Medical Kit,Pharma,Medical Kit,False,True,True,232,3.89,bestseller,2022-10-30,1.54,,INR,126478.16,64.7,61.5,27.6
+PRD-00418,Vayu Saree Classic,Apparel,Saree,True,False,False,381,2.72,clearance,2022-08-28,1.93,False,INR,114535.04,49.8,102.2,88.5
+PRD-00474,Vayu Jacket 2024,Apparel,Jacket,False,False,False,262,3.43,"premium, eco",2023-06-23,0.5,,INR,89928.67,89.2,43.9,8.5
+PRD-00668,Kaveri Generator Unit,Industrial,Generator Unit,False,True,False,335,2.78,fragile-handle,2023-06-05,752.74,,INR,26516.19,169.4,94.3,146.8
+PRD-00536,Aravind Saree,Apparel,Saree,True,False,False,68,3.92,"premium, new, fragile-handle",2022-08-30,0.66,False,INR,15310.18,107.5,69.0,61.4
+PRD-00297,Meridian Bookshelf Lite,Furniture,Bookshelf,False,False,False,817,4.79,,2021-03-25,112.01,True,INR,54332.38,52.9,41.9,47.2
+PRD-00804,Nexon Novel Lite,Books,Novel,False,False,False,483,4.63,"new, premium",2023-02-11,3.54,True,INR,9063.2,,,
+PRD-00752,Tamira Comic Set Classic,Books,Comic Set,True,False,False,308,4.07,"bestseller, clearance",2021-10-05,1.67,,INR,63878.32,18.4,89.1,98.2
+PRD-00821,Nexon Comic Set 2024,Books,Comic Set,False,False,False,801,4.71,,2023-10-07,1.29,True,INR,90976.77,170.7,51.4,96.2
+PRD-00577,Nexon Insulin Pack 2024,Pharma,Insulin Pack,False,True,False,827,3.48,"premium, new, eco",2023-02-11,0.35,,INR,68190.8,66.5,116.1,101.2
+PRD-00636,Zenith Medical Kit,Pharma,Medical Kit,False,True,True,509,3.73,"clearance, eco",2023-11-17,1.81,,INR,124804.73,10.8,97.6,71.2
+PRD-00572,Tamira Vaccine Box Lite,Pharma,Vaccine Box,True,True,False,253,3.84,premium,2021-10-06,,,INR,148805.1,,,
+PRD-00004,Aravind Smartphone Max,Electronics,Smartphone,True,False,False,561,4.64,clearance,2022-12-03,2.21,True,INR,188846.3,142.0,47.5,47.4
+PRD-00620,Meridian Vaccine Box Max,Pharma,Vaccine Box,True,True,False,246,3.7,eco,2023-11-14,4.32,True,INR,44866.79,100.9,32.0,95.9
+PRD-00233,Tamira Recliner Classic,Furniture,Recliner,False,False,False,646,3.66,new,2023-07-30,77.58,True,INR,151373.89,58.6,82.1,48.2
+PRD-00402,Zenith Dry Fruits 2024,Groceries,Dry Fruits,False,False,False,78,3.1,"premium, clearance, fragile-handle",2022-01-25,17.59,,INR,33197.77,,,
+PRD-00677,UrbanCraft Steel Coil 2024,Industrial,Steel Coil,False,True,False,700,2.97,clearance,2023-11-07,4242.92,,INR,96036.08,156.6,36.0,22.3
+PRD-00301,Meridian Study Table Max,Furniture,Study Table,False,False,False,383,3.56,"bestseller, clearance",2023-01-30,53.79,True,INR,84298.24,159.6,66.8,71.9
+PRD-00621,Vayu Medical Kit Max,Pharma,Medical Kit,True,True,True,300,3.86,new,2023-08-17,0.91,,INR,84238.36,22.2,46.0,29.1
+PRD-00393,Vayu Spice Pack Max,Groceries,Spice Pack,False,False,False,696,3.67,eco,2021-07-22,14.94,,INR,1328.62,20.9,25.7,86.7
+PRD-00118,Aravind Mixer Grinder Max,Home Appliance,Mixer Grinder,True,False,False,622,2.63,"new, bestseller, fragile-handle",2023-01-15,6.48,False,INR,20094.41,93.5,90.8,86.7
+PRD-00434,Kaveri Running Shoes 2024,Apparel,Running Shoes,False,False,False,405,3.67,bestseller,2023-12-08,1.38,True,INR,104947.17,38.7,109.2,145.3
+PRD-00379,Vayu Spice Pack,Groceries,Spice Pack,False,False,False,789,4.71,,2022-08-06,12.32,True,INR,114924.03,172.8,100.0,97.5
+PRD-00532,Nexon Saree Classic,Apparel,Saree,True,False,False,388,,"new, eco, premium",2021-11-05,1.17,,INR,181691.65,167.1,37.1,6.9
+PRD-00476,Vayu Jacket Classic,Apparel,Jacket,True,False,False,801,4.56,"fragile-handle, clearance",2022-08-03,1.37,True,INR,32970.59,88.1,10.4,66.0
+PRD-00494,Kaveri Saree Classic,Apparel,Saree,True,False,False,806,4.9,"fragile-handle, eco",2021-08-25,950.0,False,INR,100930.1,141.4,61.3,149.2
+PRD-00128,Aravind Vacuum Cleaner Lite,Home Appliance,Vacuum Cleaner,True,False,False,379,3.81,,2020-11-01,41.89,True,INR,113728.06,22.0,63.6,93.6
+PRD-00713,Aravind Generator Unit Lite,Industrial,Generator Unit,False,True,False,661,4.83,clearance,2023-04-22,3730.87,False,INR,135618.13,153.8,39.9,10.6
+PRD-00500,Nexon Running Shoes 2024,Apparel,Running Shoes,False,False,False,448,3.71,"clearance, eco, premium",2022-05-15,1.75,,INR,164216.88,126.6,104.3,108.7
+PRD-00193,Zenith Vacuum Cleaner Max,Home Appliance,Vacuum Cleaner,True,False,False,553,2.98,premium,2023-09-20,44.92,True,INR,136702.58,151.0,67.4,73.7
+PRD-00660,Tamira Steel Coil Max,Industrial,Steel Coil,False,True,False,788,2.67,clearance,2021-04-06,3620.73,,INR,159957.06,44.4,57.0,114.0
+PRD-00755,Nexon Novel 2024,Books,Novel,True,False,False,877,4.76,"eco, bestseller",2023-01-11,2.47,,INR,133861.34,85.4,37.8,3.0
+PRD-00116,Tamira Vacuum Cleaner Max,Home Appliance,Vacuum Cleaner,True,False,False,851,3.52,"fragile-handle, bestseller",2020-09-23,39.35,False,INR,158842.19,8.1,51.7,100.8
+PRD-00136,Meridian Mixer Grinder Pro,Home Appliance,Mixer Grinder,True,False,False,30,4.02,"premium, fragile-handle",2021-11-15,36.9,,INR,110960.98,167.4,95.1,121.9
+PRD-00177,Tamira Microwave,Home Appliance,Microwave,False,False,False,696,2.84,"eco, new",2023-01-20,16.67,,INR,132309.09,138.1,36.6,146.9
+PRD-00422,Nexon Jacket,Apparel,Jacket,False,False,False,152,4.83,"fragile-handle, bestseller",2020-09-12,1.18,False,INR,81873.67,79.1,53.2,95.7
+PRD-00460,Meridian T-Shirt Lite,Apparel,T-Shirt,False,False,False,784,4.64,,2020-08-10,0.53,False,INR,142887.11,154.3,101.3,79.5
+PRD-00774,Tamira Novel 2024,Books,Novel,False,False,False,598,4.49,"clearance, premium, eco",2022-01-18,2.72,True,INR,89570.12,135.0,52.1,145.0
+PRD-00146,Vayu Microwave Classic,Home Appliance,Microwave,False,False,False,631,3.64,premium,2021-11-27,36.0,False,INR,22488.19,92.1,64.1,140.6
+PRD-00728,Vayu Generator Unit 2024,Industrial,Generator Unit,True,True,False,659,4.64,,2022-01-01,3328.18,,INR,42099.59,129.5,66.8,71.3
+PRD-00373,Tamira Rice Bag Max,Groceries,Rice Bag,False,False,False,192,2.82,new,2022-04-29,7.67,,INR,150471.82,59.8,112.3,25.8
+PRD-00425,Nexon T-Shirt Max,Apparel,T-Shirt,False,False,False,537,3.41,,2022-01-18,1.07,,INR,36063.82,13.3,53.4,74.9
+PRD-00045,Zenith Smartwatch Lite,Electronics,Smartwatch,True,False,False,47,2.96,eco,2022-07-09,2.68,False,INR,108040.49,90.2,114.5,3.3
+PRD-00797,UrbanCraft Textbook Classic,Books,Textbook,False,False,False,844,4.62,"eco, premium, fragile-handle",2021-10-13,2770.0,,INR,157774.48,81.0,22.2,126.5
+PRD-00216,UrbanCraft Bookshelf Classic,Furniture,Bookshelf,False,False,False,899,3.97,,2023-09-21,96.95,False,INR,104385.12,89.3,94.6,100.7
+PRD-00080,Kaveri Smartwatch 2024,Electronics,Smartwatch,False,False,False,695,3.47,eco,2022-03-27,0.49,False,INR,178698.33,90.2,10.4,11.6
+PRD-00203,Meridian Microwave,Home Appliance,Microwave,True,False,False,855,4.13,"premium, eco, new",2023-09-13,4.92,True,INR,169756.48,49.4,36.0,77.2
+PRD-00403,UrbanCraft Spice Pack Classic,Groceries,Spice Pack,True,False,False,241,3.22,bestseller,2020-10-12,1.42,False,INR,72039.06,158.8,72.9,136.2
+PRD-00286,Tamira Recliner 2024,Furniture,Recliner,False,False,False,3,4.12,,2023-06-21,115.39,False,INR,179099.09,156.5,78.4,46.3
+PRD-00061,Kaveri Headphones 2024,Electronics,Headphones,True,False,False,832,4.72,"eco, fragile-handle",2022-09-23,2.96,,INR,160278.54,40.7,103.9,114.0
+PRD-00160,Meridian Mixer Grinder Classic,Home Appliance,Mixer Grinder,True,False,False,176,4.54,"clearance, bestseller",2021-03-19,25.43,,INR,148320.02,43.7,51.7,54.8
+PRD-00413,Tamira Cooking Oil Lite,Groceries,Cooking Oil,False,False,False,682,3.34,"clearance, bestseller, eco",2022-04-09,17.18,,INR,151673.94,74.2,14.1,79.8
+PRD-00241,Meridian Study Table Pro,Furniture,Study Table,False,False,False,540,3.31,"new, eco, premium",2023-01-26,70.57,,INR,128734.66,110.4,95.1,118.3
+PRD-00285,Kaveri Study Table Classic,Furniture,Study Table,True,False,False,217,4.74,"eco, new, fragile-handle",2023-07-22,84.64,False,INR,180067.66,115.0,63.0,136.3
+PRD-00644,Aravind Steel Coil Classic,Industrial,Steel Coil,False,True,False,504,3.87,"clearance, new",2023-09-09,3856.39,True,INR,38605.0,104.6,57.1,141.7
+PRD-00561,UrbanCraft Vaccine Box Lite,Pharma,Vaccine Box,True,True,True,565,3.52,,2020-12-27,1.96,,INR,124771.21,102.6,96.7,48.6
+PRD-00211,Aravind Bookshelf Max,Furniture,Bookshelf,False,False,False,716,3.7,,2022-04-08,91.39,False,INR,99410.18,147.4,31.1,116.4
+PRD-00201,Vayu Microwave Max,Home Appliance,Microwave,True,False,False,767,4.39,,2023-05-26,24.23,,INR,130878.49,116.1,33.1,32.3
+PRD-00691,Vayu Steel Coil,Industrial,Steel Coil,False,True,False,784,,,2023-02-15,2681.28,,INR,115790.0,131.2,108.6,64.8
+PRD-00611,Kaveri Insulin Pack Lite,Pharma,Insulin Pack,True,True,False,380,4.47,eco,2023-08-13,4.53,,INR,98242.68,56.6,64.4,118.8
+PRD-00347,Aravind Dry Fruits Pro,Groceries,Dry Fruits,True,False,False,548,4.65,,2023-01-20,23.89,False,INR,84615.07,108.1,21.9,103.0
+PRD-00154,Kaveri Air Purifier Max,home appliance,Air Purifier,True,False,False,739,2.69,"bestseller, eco, fragile-handle",2021-11-10,16.63,,INR,19131.58,50.7,67.0,44.0
+PRD-00109,Nexon Tablet,Electronics,Tablet,True,False,False,475,2.5,new,2023-05-23,1.27,False,INR,90046.35,76.9,111.7,107.0
+PRD-00507,Zenith Jacket,Apparel,Jacket,True,False,False,699,3.79,,2023-05-15,0.41,False,INR,12092.9,29.5,31.5,23.8
+PRD-00652,Aravind Steel Coil 2024,Industrial,Steel Coil,False,True,False,414,4.33,"fragile-handle, bestseller, clearance",2021-01-03,2564.06,False,INR,29192.36,111.3,19.8,29.3
+PRD-00197,Aravind Microwave,Home Appliance,Microwave,True,False,False,626,,,2023-06-16,5.79,,INR,105444.0,,,
+PRD-00330,Tamira Rice Bag Max,Groceries,Rice Bag,False,False,False,187,4.29,clearance,2022-08-12,15.98,False,INR,100300.35,34.3,35.0,86.5
+PRD-00705,Aravind Steel Coil Classic,industrial,Steel Coil,True,True,False,286,2.91,"bestseller, clearance, eco",2023-04-10,521.97,False,INR,130694.31,57.9,116.3,22.6
+PRD-00170,Meridian Vacuum Cleaner Lite,Home Appliance,Vacuum Cleaner,True,False,False,453,4.06,clearance,2021-11-10,41.27,,INR,67026.07,34.1,79.6,137.3
+PRD-00029,Meridian Headphones Max,Electronics,Headphones,False,False,False,713,2.86,"new, clearance",2022-09-11,1.87,,INR,93689.64,128.5,23.3,15.9
+PRD-00141,Meridian Vacuum Cleaner Pro,Home Appliance,Vacuum Cleaner,True,False,False,873,4.72,"premium, fragile-handle",2022-02-08,22.46,,INR,45450.08,74.4,85.2,73.5
+PRD-00313,Aravind Dry Fruits Pro,Groceries,Dry Fruits,True,False,False,510,2.67,"eco, fragile-handle",2021-11-24,16.58,True,INR,150196.71,115.9,13.8,83.2
+PRD-00282,Nexon Office Chair Pro,Furniture,Office Chair,False,False,False,502,4.77,"premium, fragile-handle",2021-10-23,51.97,,INR,8627.92,121.7,44.4,14.8
+PRD-00540,Vayu Insulin Pack Max,Pharma,Insulin Pack,True,True,True,776,4.61,"bestseller, premium, eco",2021-10-06,2.04,,INR,125125.92,113.5,61.8,71.8
+PRD-00471,Aravind Running Shoes 2024,Apparel,Running Shoes,True,False,False,242,3.95,,2021-02-01,1.93,,INR,122848.96,126.3,13.2,149.2
+PRD-00667,Nexon Motor Assembly Lite,Industrial,Motor Assembly,False,True,False,234,3.79,"premium, eco",2020-12-25,3797.74,,INR,14766.45,166.4,50.0,118.1
+PRD-00153,Meridian Microwave Lite,Home Appliance,Microwave,True,False,False,193,4.34,"clearance, new, bestseller",2022-01-21,21.43,False,INR,57053.27,113.0,94.4,104.1
+PRD-00337,UrbanCraft Rice Bag Lite,Groceries,Rice Bag,False,False,False,29,2.85,fragile-handle,2021-10-21,9.91,True,INR,47902.38,78.7,95.7,4.8
+PRD-00528,Zenith Saree Pro,Apparel,Saree,False,False,False,535,2.97,,2021-02-05,0.44,True,INR,31905.21,71.1,102.6,46.8
+PRD-00353,Aravind Rice Bag,Groceries,Rice Bag,False,False,False,216,3.54,"eco, premium",2023-01-19,1.49,,INR,154064.94,156.9,101.2,114.9
+PRD-00679,Meridian Motor Assembly 2024,Industrial,Motor Assembly,True,True,False,140,4.82,,2021-12-26,789.83,False,INR,110104.51,84.3,14.0,97.8
+PRD-00164,UrbanCraft Mixer Grinder Pro,Home Appliance,Mixer Grinder,True,False,False,85,4.8,"clearance, new, fragile-handle",2022-11-23,39.68,False,INR,56189.0,105.1,98.6,74.5
+PRD-00304,Meridian Recliner,Furniture,Recliner,False,False,False,722,3.76,eco,2023-09-23,107.11,False,INR,135047.2,133.9,68.4,82.4
+PRD-00609,Tamira Vaccine Box 2024,Pharma,Vaccine Box,False,True,False,202,4.65,eco,2022-12-28,4.48,,INR,167584.55,75.7,105.9,71.9
+PRD-00067,Aravind Tablet Pro,Electronics,Tablet,False,False,False,133,,"new, fragile-handle, premium",2021-02-22,,,INR,44607.21,,,
+PRD-00604,Tamira Vaccine Box Lite,Pharma,Vaccine Box,True,True,True,689,4.61,,2022-06-05,4.61,True,INR,134230.2,124.3,43.4,54.0
+PRD-00595,Meridian Vaccine Box Classic,pharma,Vaccine Box,True,True,False,127,4.13,new,2021-09-02,3.55,False,INR,135321.56,20.6,35.4,130.8
+PRD-00401,Aravind Cooking Oil Max,Groceries,Cooking Oil,True,False,False,-13,4.99,"clearance, eco, premium",2023-08-14,2.61,True,INR,129745.15,151.9,81.0,54.9
+PRD-00619,Vayu Medical Kit Classic,Pharma,Medical Kit,False,True,True,490,4.37,,2022-02-20,2.58,,INR,52966.26,29.7,107.3,145.3
+PRD-00814,Kaveri Novel Pro,Books,Novel,True,False,False,135,2.73,clearance,2022-09-23,3.31,False,INR,38563.97,101.0,117.5,50.6
+PRD-00603,UrbanCraft Vaccine Box,Pharma,Vaccine Box,True,True,True,112,3.32,eco,2022-07-17,3.73,,INR,132799.16,26.4,17.7,105.9
+PRD-00608,UrbanCraft Vaccine Box 2024,Pharma,Vaccine Box,True,True,False,825,3.81,clearance,2022-12-27,4.93,True,INR,171334.53,108.4,24.0,147.9
+PRD-00674,Tamira Motor Assembly Lite,Industrial,Motor Assembly,False,True,False,570,3.37,"bestseller, clearance",2021-09-22,949.03,False,INR,120985.15,69.7,78.4,18.3
+PRD-00441,Zenith Running Shoes Classic,Apparel,Running Shoes,False,False,False,94,3.42,"new, eco",2021-11-08,1.69,,INR,46919.38,80.6,94.5,19.6
+PRD-00300,UrbanCraft Recliner Lite,Furniture,Recliner,False,False,False,67,2.95,"bestseller, new, premium",2022-02-11,68.4,,INR,180565.25,52.5,67.2,82.0
+PRD-00239,Tamira Study Table Lite,Furniture,Study Table,True,False,False,751,4.05,"premium, bestseller",2021-04-30,66.23,True,INR,14064.86,123.1,89.5,129.5
+PRD-00593,UrbanCraft Medical Kit Max,Pharma,Medical Kit,False,True,True,722,4.53,premium,2021-03-19,4.87,,INR,160992.08,18.8,56.9,109.0
+PRD-00606,Zenith Vaccine Box Lite,Pharma,Vaccine Box,True,True,False,736,2.95,new,2021-07-26,4.25 kg,True,INR,132475.69,78.0,40.3,129.3
+PRD-00250,Aravind Recliner Classic,Furniture,Recliner,False,False,False,498,4.97,"fragile-handle, premium, eco",2022-02-06,110.18,,INR,50342.41,171.0,19.8,109.6
+PRD-00640,Meridian Motor Assembly Lite,Industrial,Motor Assembly,False,True,False,165,,,2022-04-22,1808.69,False,INR,36455.16,87.5,14.7,6.0
+PRD-00787,Vayu Comic Set Classic,Books,Comic Set,False,False,False,862,3.07,"eco, new, bestseller",2022-08-05,0.56,,INR,174039.74,37.2,55.9,31.9
+PRD-00726,Nexon Steel Coil Pro,Industrial,Steel Coil,False,True,False,166,4.08,bestseller,2022-09-12,,,INR,149693.98,,,
+PRD-00183,Tamira Mixer Grinder Lite,Home Appliance,Mixer Grinder,True,False,False,-16,4.58,"eco, clearance",2022-04-29,43.54,False,INR,178286.4,21.0,107.0,8.5
+PRD-00015,Zenith Smartphone Classic,Electronics,Smartphone,True,False,False,552,3.27,premium,2023-08-29,1.01,False,INR,18973.18,168.3,115.1,65.7
+PRD-00443,Kaveri T-Shirt Classic,Apparel,T-Shirt,True,False,False,580,4.39,,2022-12-13,1.77,False,INR,91111.13,19.4,6.3,108.5
+PRD-00257,Zenith Bookshelf 2024,Furniture,Bookshelf,False,False,False,584,2.75,premium,2023-05-22,48.9,True,INR,169411.72,19.3,62.5,148.6
+PRD-00813,UrbanCraft Comic Set Classic,Books,Comic Set,False,False,False,46,3.19,new,2021-10-27,0.74,False,INR,38791.58,134.6,48.5,66.4
+PRD-00267,Aravind Office Chair Pro,Furniture,Office Chair,True,False,False,487,,fragile-handle,2023-11-13,102.37 kg,,INR,94912.03,25.2,55.5,61.9
+PRD-00012,Vayu Smartphone Pro,Electronics,Smartphone,True,False,False,-2,3.58,"premium, bestseller, clearance",2022-03-11,1.55,False,INR,111145.04,79.1,16.6,28.3
+PRD-00064,Vayu Headphones Lite,Electronics,Headphones,True,False,False,228,4.46,"fragile-handle, bestseller, new",2023-07-05,0.8,False,INR,168614.51,75.7,79.2,129.9
+PRD-00095,Aravind Smartwatch Max,Electronics,Smartwatch,True,False,False,505,3.53,"premium, eco, bestseller",2022-07-06,2.47 kg,,INR,177528.76,108.8,47.3,128.5
+PRD-00801,Vayu Textbook Max,Books,Textbook,False,False,False,247,4.91,premium,2022-10-23,2.71,False,INR,154667.4,136.0,75.2,24.8
+PRD-00560,Tamira Medical Kit Classic,Pharma,Medical Kit,False,True,False,860,4.98,"eco, fragile-handle",2021-10-26,2.03,,INR,37731.69,134.6,100.4,14.5
+PRD-00179,Tamira Mixer Grinder,home appliance,Mixer Grinder,True,False,False,260,3.56,,2021-12-02,18.18,True,INR,1760.02,146.7,6.9,44.3
+PRD-00236,Zenith Study Table Classic,Furniture,Study Table,False,False,False,634,4.1,,2023-03-27,72.3,False,INR,164130.46,9.6,119.2,43.0
+PRD-00207,Vayu Recliner,Furniture,Recliner,False,False,False,523,,"bestseller, premium",2022-12-28,84290.0,,INR,56969.27,137.3,65.5,62.0
+PRD-00263,Kaveri Recliner Lite,Furniture,Recliner,False,False,False,674,3.5,"bestseller, eco, new",2021-08-22,94.24,False,INR,128790.11,45.8,69.3,78.2
+PRD-00351,Nexon Cooking Oil 2024,Groceries,Cooking Oil,False,False,False,881,,,2021-09-08,24.15,False,INR,4801.43,135.4,44.1,137.6
+PRD-00031,Zenith Headphones Max,Electronics,Headphones,True,False,False,158,3.74,,2023-11-14,2.88,True,INR,112873.5,81.1,52.1,5.8
+PRD-00208,Kaveri Recliner Max,Furniture,Recliner,False,False,False,198,4.34,,2022-12-21,23.0,,INR,19154.07,147.3,55.1,62.6
+PRD-00176,Aravind Vacuum Cleaner Lite,Home Appliance,Vacuum Cleaner,True,False,False,553,4.88,premium,2022-01-18,42.86,True,INR,495.71,75.2,91.8,4.9
+PRD-00738,Meridian Motor Assembly 2024,Industrial,Motor Assembly,False,True,False,518,4.06,"eco, premium, bestseller",2020-04-11,2123.2,True,INR,47175.15,49.8,34.9,61.0
+PRD-00125,UrbanCraft Vacuum Cleaner Max,home appliance,Vacuum Cleaner,True,False,False,487,4.17,"clearance, new, premium",2023-08-24,9.36,True,INR,170222.46,153.4,25.3,145.2
+PRD-00044,Aravind Tablet 2024,Electronics,Tablet,False,False,False,247,4.38,new,2023-01-28,0.44,False,INR,21033.2,99.1,8.4,66.2
+PRD-00653,Meridian Motor Assembly Pro,Industrial,Motor Assembly,True,True,False,739,2.57,new,2021-11-16,2724.13,,INR,175821.51,126.5,58.7,102.7
+PRD-00307,UrbanCraft Bookshelf Lite,Furniture,Bookshelf,True,False,False,39,4.67,eco,2022-05-16,107.74,,INR,94027.77,124.6,76.3,57.9
+PRD-00807,Meridian Novel 2024,Books,Novel,False,False,False,896,3.1,"new, premium",2022-07-14,,,INR,131927.47,,,
+PRD-00656,Vayu Steel Coil Classic,Industrial,Steel Coil,True,True,False,331,4.94,,2022-01-27,4122.85,True,INR,22265.13,160.3,51.5,125.9
+PRD-00451,Zenith Running Shoes,Apparel,Running Shoes,False,False,False,885,3.71,"premium, fragile-handle",2023-07-19,0.68,,INR,55850.17,154.5,98.4,13.7
+PRD-00237,Zenith Study Table 2024,Furniture,Study Table,True,False,False,329,2.73,"bestseller, premium",2020-10-30,106.2,,INR,91671.95,165.8,119.3,69.3
+PRD-00247,Vayu Study Table Lite,Furniture,Study Table,True,False,False,582,2.83,bestseller,2021-07-19,108.83,True,INR,142435.97,58.4,12.5,123.3
+PRD-00468,Zenith Running Shoes 2024,Apparel,Running Shoes,False,False,False,59,4.02,"fragile-handle, bestseller, clearance",2020-11-20,0.57,False,INR,170181.4,61.3,98.3,32.1
+PRD-00357,UrbanCraft Dry Fruits Pro,Groceries,Dry Fruits,True,False,False,281,3.74,clearance,2021-06-01,,,INR,38050.87,,,
+PRD-00365,Zenith Cooking Oil Lite,Groceries,Cooking Oil,True,False,False,-13,2.53,"clearance, bestseller, new",2021-05-05,15.86,False,INR,103683.9,38.5,15.6,67.7
+PRD-00670,UrbanCraft Motor Assembly Classic,Industrial,Motor Assembly,False,True,False,551,3.36,"bestseller, eco, premium",2020-09-20,493.22,False,INR,33659.42,106.0,58.4,2.2
+PRD-00011,UrbanCraft Laptop Pro,Electronics,Laptop,True,False,False,470,3.2,"bestseller, eco",2020-10-09,2.39,True,INR,98324.55,57.7,118.0,142.3
+PRD-00497,Kaveri Running Shoes Max,Apparel,Running Shoes,False,False,False,875,3.78,"bestseller, new",2022-02-24,1.36,True,INR,40164.06,37.5,67.1,81.1
+PRD-00812,Tamira Comic Set Pro,Books,Comic Set,False,False,False,58,4.59,eco,2021-06-13,0.55,True,INR,75343.3,54.7,94.1,126.2
+PRD-00278,Zenith Office Chair Lite,Furniture,Office Chair,False,False,False,814,2.73,,2023-04-18,69.82,True,INR,99542.91,171.1,8.9,33.6
+PRD-00489,Kaveri Jacket Classic,Apparel,Jacket,False,False,False,799,3.17,,2023-04-20,1.07,False,INR,107097.66,169.8,119.0,119.6
+PRD-00681,UrbanCraft Generator Unit,industrial,Generator Unit,False,True,False,584,4.49,"premium, bestseller, new",2020-11-16,1393.25,True,INR,39536.53,162.0,22.3,117.5
+PRD-00268,Meridian Bookshelf Classic,Furniture,Bookshelf,True,False,False,586,4.19,"premium, eco",2022-10-05,13.96,True,INR,146914.94,47.0,74.5,26.1
+PRD-00521,UrbanCraft Jacket Max,Apparel,Jacket,True,False,False,562,4.56,eco,2023-03-21,,,INR,30479.65,,,
+PRD-00017,UrbanCraft Tablet,Electronics,Tablet,False,False,False,549,2.71,"new, eco",2022-06-30,2.68,False,INR,50277.49,177.0,28.3,93.9
+PRD-00616,UrbanCraft Medical Kit Lite,Pharma,Medical Kit,False,True,True,828,,"eco, clearance, fragile-handle",2023-06-21,0.67,,INR,153464.67,132.1,18.8,55.7
+PRD-00229,Meridian Bookshelf,Furniture,Bookshelf,False,False,False,63,4.1,"bestseller, eco, clearance",2022-04-14,46.44,,INR,82001.4,63.0,62.3,142.8
+PRD-00171,Meridian Air Purifier Lite,Home Appliance,Air Purifier,False,False,False,293,4.56,"clearance, eco",2023-09-04,5.42,True,INR,42095.77,25.7,6.6,60.2
+PRD-00820,Vayu Textbook Classic,books,Textbook,False,False,False,252,3.8,"eco, clearance, fragile-handle",2023-05-15,3.78,False,INR,118239.87,162.2,94.2,45.6
+PRD-00768,Kaveri Novel Lite,Books,Novel,True,False,False,649,3.49,,2021-12-07,1.3,True,INR,183340.25,119.3,42.1,146.6
+PRD-00032,UrbanCraft Laptop,Electronics,Laptop,False,False,False,109,4.21,,2021-08-28,2.71 kg,False,INR,117616.26,135.7,92.8,80.4
+PRD-00059,Nexon Headphones Max,Electronics,Headphones,False,False,False,463,3.77,fragile-handle,2020-10-19,,,INR,108736.94,,,
+PRD-00223,Vayu Office Chair,Furniture,Office Chair,False,False,False,425,4.48,"eco, premium, fragile-handle",2023-03-28,110.71,False,INR,175821.33,60.2,66.0,115.6
+PRD-00166,Tamira Mixer Grinder Max,Home Appliance,Mixer Grinder,True,False,False,195,4.55,,2021-03-08,25.18,False,INR,26617.47,146.7,83.3,149.3
+PRD-00626,Meridian Insulin Pack 2024,Pharma,Insulin Pack,False,True,True,408,3.68,"bestseller, new",2022-10-30,1.82,True,INR,42131.43,107.3,56.5,14.3
+PRD-00277,Zenith Study Table Max,Furniture,Study Table,False,False,False,-6,4.36,,2021-03-26,29.66,,INR,107889.86,169.7,106.5,62.4
+PRD-00569,Kaveri Vaccine Box Lite,Pharma,Vaccine Box,True,True,False,823,4.3,"fragile-handle, bestseller, clearance",2022-06-24,3.87,,INR,163329.24,57.5,29.7,137.6
+PRD-00306,Aravind Recliner Lite,Furniture,Recliner,True,False,False,72,3.71,,2022-05-17,19270.0,True,INR,180159.92,26.1,102.9,149.9
+PRD-00630,Aravind Insulin Pack 2024,Pharma,Insulin Pack,True,True,False,75,4.71,"new, fragile-handle, eco",2022-06-16,4.38,False,INR,114641.62,120.5,52.6,100.5
+PRD-00083,Tamira Headphones Lite,Electronics,Headphones,False,False,False,-4,4.9,fragile-handle,2023-09-26,2.77,,INR,31481.42,29.6,89.7,130.0
+PRD-00030,Nexon Smartphone,Electronics,Smartphone,True,False,False,489,3.45,fragile-handle,2022-03-25,2.6,False,INR,54232.66,147.7,85.9,118.6
+PRD-00227,Nexon Study Table Max,Furniture,Study Table,False,False,False,289,4.75,"new, premium",2022-10-30,102.7,,INR,66799.04,134.4,57.9,102.7
+PRD-00097,Aravind Smartwatch,Electronics,Smartwatch,True,False,False,171,2.7,"fragile-handle, clearance",2022-04-10,2790.0,True,INR,88408.65,80.7,89.3,98.7
+PRD-00055,Aravind Laptop Lite,Electronics,Laptop,True,False,False,121,,fragile-handle,2023-04-11,1.56,True,INR,89629.74,5.2,23.9,19.2
+PRD-00023,Tamira Smartphone 2024,Electronics,Smartphone,False,False,False,616,3.73,fragile-handle,2021-02-14,1.89,,INR,30916.68,45.2,62.3,132.1
+PRD-00707,Vayu Steel Coil 2024,Industrial,Steel Coil,False,True,False,369,4.03,"clearance, fragile-handle, new",2023-05-07,3831.62,False,INR,41289.54,170.8,49.7,126.6
+PRD-00836,UrbanCraft Textbook 2024,Books,Textbook,False,False,False,801,2.6,eco,2023-05-02,0.75,,INR,181356.84,176.1,118.5,17.3
+PRD-00623,Zenith Medical Kit,pharma,Medical Kit,True,True,True,479,2.87,"bestseller, premium, new",2021-06-12,3.3,True,INR,38370.74,100.2,57.9,136.6
+PRD-00454,Aravind Jacket 2024,Apparel,Jacket,False,False,False,434,3.55,"eco, clearance",2023-06-07,1.22,True,INR,144103.28,15.8,17.5,32.9
+PRD-00735,Aravind Motor Assembly 2024,Industrial,Motor Assembly,False,True,False,738,3.63,"fragile-handle, bestseller",2021-12-02,2377.64,False,INR,145223.11,124.7,77.8,65.7
+PRD-00066,Meridian Smartwatch Max,Electronics,Smartwatch,False,False,False,388,2.96,"premium, clearance, bestseller",2023-04-25,1.95,False,INR,105578.06,147.3,34.0,11.7
+PRD-00511,Aravind Jacket 2024,Apparel,Jacket,False,False,False,-19,4.91,,2023-06-22,0.63,True,INR,86174.72,47.7,26.1,67.7
+PRD-00634,Vayu Medical Kit Max,Pharma,Medical Kit,False,True,True,543,4.46,"bestseller, new, clearance",2021-02-15,4.63,,INR,146602.69,100.0,54.6,60.8
+PRD-00432,Nexon Saree Classic,Apparel,Saree,True,False,False,394,4.47,,2023-04-23,0.24,False,INR,173337.48,117.4,33.0,149.0
+PRD-00274,Nexon Office Chair,Furniture,Office Chair,True,False,False,80,3.61,"eco, fragile-handle",2021-10-08,21.88,False,INR,97427.54,58.5,110.3,62.6
+PRD-00428,UrbanCraft Jacket 2024,Apparel,Jacket,True,False,False,795,4.5,"fragile-handle, bestseller, new",2023-11-23,,,INR,180689.11,,,
+PRD-00487,UrbanCraft Jacket 2024,Apparel,Jacket,False,False,False,273,3.17,"new, premium, fragile-handle",2022-06-07,0.73,False,INR,32139.61,79.2,6.8,99.9
+PRD-00019,Vayu Smartphone 2024,Electronics,Smartphone,True,False,False,673,4.29,"new, clearance",2022-04-17,1.2,True,INR,165475.32,67.7,13.7,147.3
+PRD-00662,Meridian Steel Coil Lite,Industrial,Steel Coil,False,True,False,218,4.47,"new, clearance",2023-03-13,,,INR,161611.01,,,
+PRD-00584,Vayu Vaccine Box Lite,Pharma,Vaccine Box,True,True,True,712,3.47,,2020-11-28,4.4,,INR,66264.04,70.3,27.9,61.7
+PRD-00096,Nexon Headphones 2024,Electronics,Headphones,False,False,False,809,4.56,"premium, fragile-handle",2021-11-17,2.28,,INR,26065.79,111.6,10.4,119.0
+PRD-00552,UrbanCraft Vaccine Box Pro,Pharma,Vaccine Box,False,True,True,430,4.28,"new, premium",2021-04-06,3.84,False,INR,4348.98,37.6,102.4,103.6
+PRD-00148,Meridian Mixer Grinder Classic,Home Appliance,Mixer Grinder,True,False,False,669,2.95,"eco, premium, new",2020-10-18,34.25,,INR,177701.38,167.1,82.0,45.8
+PRD-00099,Nexon Laptop 2024,Electronics,Laptop,True,False,False,887,3.26,clearance,2023-06-02,1.92,False,INR,102218.1,160.3,109.6,21.8
+PRD-00414,Aravind Spice Pack,Groceries,Spice Pack,False,False,False,313,3.39,"premium, eco",2021-01-02,19.46,True,INR,147996.85,62.0,11.1,39.2
+PRD-00034,Kaveri Headphones,Electronics,Headphones,True,False,False,766,4.78,"bestseller, clearance, premium",2020-12-31,2080.0,,INR,147219.72,46.9,58.6,40.4
+PRD-00837,UrbanCraft Novel Classic,Books,Novel,False,False,False,880,4.97,bestseller,2021-09-28,1.33,,INR,113311.8,50.7,62.2,25.5
+PRD-00159,Tamira Mixer Grinder Pro,Home Appliance,Mixer Grinder,True,False,False,840,2.63,"clearance, eco, new",2021-07-09,14.02,True,INR,73081.74,107.3,37.8,8.2
+PRD-00269,UrbanCraft Recliner Classic,Furniture,Recliner,False,False,False,237,3.54,,2021-08-18,110.53,False,INR,6593.42,153.7,74.3,9.4
+PRD-00291,Vayu Study Table Classic,Furniture,Study Table,False,False,False,794,4.5,eco,2022-03-18,60.69,True,INR,23510.53,133.9,22.8,102.4
+PRD-00832,Tamira Novel,Books,Novel,True,False,False,781,4.08,,2022-02-19,2.83,False,INR,16538.92,56.1,92.7,96.9
+PRD-00693,Nexon Generator Unit 2024,Industrial,Generator Unit,False,True,False,774,3.83,"new, bestseller",2023-10-29,2087.64,,INR,31047.81,91.9,107.6,18.6
+PRD-00789,Meridian Textbook Max,Books,Textbook,True,False,False,266,2.51,"clearance, new",2023-03-04,2.08,,INR,41945.86,86.6,19.4,89.2
+PRD-00826,Meridian Comic Set Max,Books,Comic Set,False,False,False,76,3.46,"premium, eco, clearance",2022-09-25,3.59,,INR,114929.74,116.5,18.4,43.2
+PRD-00140,Aravind Microwave 2024,Home Appliance,Microwave,True,False,False,518,4.96,new,2022-12-17,8.11,,INR,73527.12,118.4,58.8,104.3
+PRD-00456,Vayu Saree Pro,Apparel,Saree,True,False,False,592,3.1,"fragile-handle, new, bestseller",2021-09-05,1.98,True,INR,91356.41,19.1,88.8,116.4
+PRD-00485,Meridian T-Shirt Lite,Apparel,T-Shirt,True,False,False,853,4.66,clearance,2021-07-24,1.0,,INR,88335.11,17.3,33.8,147.4
+PRD-00764,Tamira Textbook Classic,Books,Textbook,False,False,False,34,,premium,2021-09-02,3.83,,INR,133902.08,9.1,30.5,91.4
+PRD-00092,Tamira Tablet Max,Electronics,Tablet,False,False,False,301,4.11,"premium, new, bestseller",2022-08-25,,,INR,95970.41,,,
+PRD-00392,Meridian Cooking Oil Classic,Groceries,Cooking Oil,True,False,False,216,4.84,bestseller,2022-05-22,22.46,True,INR,55668.53,18.0,89.6,128.1
+PRD-00753,Kaveri Novel Pro,Books,Novel,False,False,False,316,4.44,bestseller,2021-02-19,3.13,True,INR,134764.98,157.4,83.5,64.0
+PRD-00817,Vayu Textbook Classic,Books,Textbook,True,False,False,133,3.27,eco,2022-04-26,0.86,False,INR,100821.82,157.7,82.2,8.5
+PRD-00155,Aravind Air Purifier Max,Home Appliance,Air Purifier,False,False,False,7,3.82,clearance,2023-02-10,14.86 kg,True,INR,50202.86,21.5,98.4,50.1
+PRD-00539,Tamira Vaccine Box Max,Pharma,Vaccine Box,True,True,True,247,2.79,,2023-09-15,4.8,False,INR,163905.14,102.8,58.1,101.2
+PRD-00754,Kaveri Textbook,Books,Textbook,False,False,False,378,4.04,"bestseller, clearance",2021-04-04,1.5,False,INR,120030.43,96.2,19.7,34.0
+PRD-00491,Aravind Jacket Classic,Apparel,Jacket,False,False,False,790,3.81,"fragile-handle, eco, new",2023-09-24,1.47,False,INR,146687.8,134.2,39.1,138.3
+PRD-00580,Tamira Vaccine Box Max,pharma,Vaccine Box,True,True,False,529,3.46,,2022-01-29,4.16,,INR,58280.82,63.3,78.1,84.7
+PRD-00302,Kaveri Recliner Classic,Furniture,Recliner,False,False,False,825,4.69,,2023-12-04,88.93,False,INR,31228.86,59.4,22.6,9.3
+PRD-00299,Nexon Office Chair Max,Furniture,Office Chair,False,False,False,389,3.2,,2021-08-07,107.28,False,INR,109228.19,28.8,59.6,133.2
+PRD-00049,Aravind Headphones Pro,Electronics,Headphones,True,False,False,88,3.96,clearance,2023-08-04,1.0,True,INR,4960.93,121.4,67.7,91.9
+PRD-00344,Kaveri Cooking Oil 2024,Groceries,Cooking Oil,False,False,False,838,4.37,,2022-06-01,2.88,False,INR,154065.62,31.4,86.4,69.2
+PRD-00448,Kaveri Jacket Pro,Apparel,Jacket,False,False,False,504,4.03,new,2023-03-17,1.38 kg,False,INR,133396.31,147.4,64.0,149.1
+PRD-00248,Tamira Office Chair 2024,Furniture,Office Chair,False,False,False,830,4.7,clearance,2021-02-27,18.05,True,INR,139157.49,9.0,56.0,13.8
+PRD-00104,Nexon Headphones Lite,electronics,Headphones,True,False,False,673,3.12,"premium, clearance",2022-12-25,2.86,,INR,32104.77,87.2,42.9,118.8
+PRD-00597,Meridian Vaccine Box Max,Pharma,Vaccine Box,True,True,True,555,2.67,bestseller,2022-02-20,4.24,True,INR,182727.61,139.0,21.2,70.3
+PRD-00238,UrbanCraft Study Table,Furniture,Study Table,True,False,False,782,4.58,"eco, fragile-handle, new",2022-07-30,22960.0,False,INR,145960.99,24.6,24.2,124.4
+PRD-00558,Nexon Vaccine Box,Pharma,Vaccine Box,True,True,True,479,3.25,"premium, clearance",2021-08-16,3.71,False,INR,66145.07,133.5,58.8,71.8
+PRD-00334,Nexon Dry Fruits Pro,Groceries,Dry Fruits,False,False,False,892,4.37,,2022-07-24,22.42,True,INR,70455.15,36.4,30.1,4.5
+PRD-00333,Zenith Dry Fruits Lite,Groceries,Dry Fruits,False,False,False,397,3.76,fragile-handle,2021-09-26,24.35,,INR,118987.09,161.0,79.3,79.8
+PRD-00431,Kaveri Running Shoes,Apparel,Running Shoes,True,False,False,150,4.23,"eco, premium",2022-10-02,0.83,False,INR,161494.04,105.1,111.2,40.2
+PRD-00157,Meridian Air Purifier,Home Appliance,Air Purifier,True,False,False,590,3.61,,2023-02-15,40.13,False,INR,147136.27,,,
+PRD-00722,Zenith Steel Coil Max,Industrial,Steel Coil,False,True,False,66,2.54,premium,2021-11-17,2207.22,True,INR,102293.53,,,
+PRD-00415,Tamira Dry Fruits Pro,Groceries,Dry Fruits,True,False,False,711,3.26,"premium, fragile-handle",2023-02-23,4.21,False,INR,111424.17,100.6,34.6,137.0
+PRD-00712,Aravind Motor Assembly,Industrial,Motor Assembly,True,True,False,852,4.41,premium,2023-02-13,4393.07,True,INR,60433.18,,,
+PRD-00701,Vayu Motor Assembly Pro,Industrial,Motor Assembly,True,True,False,762,3.28,,2023-08-14,726.36,True,INR,13848.44,102.8,92.9,117.8
+PRD-00219,Nexon Bookshelf Lite,Furniture,Bookshelf,True,False,False,647,3.51,,2022-05-31,37.85,,INR,47705.75,141.8,103.4,26.9
+PRD-00576,UrbanCraft Insulin Pack Lite,Pharma,Insulin Pack,False,True,False,547,2.87,bestseller,2021-05-30,1.86,False,INR,177052.89,60.8,36.4,115.6
+PRD-00321,Zenith Cooking Oil Max,Groceries,Cooking Oil,True,False,False,617,4.32,clearance,2020-06-11,12.03,,INR,73654.38,149.7,64.0,51.6
+PRD-00043,Aravind Laptop Classic,Electronics,Laptop,False,False,False,418,2.68,bestseller,2021-08-08,1.42,False,INR,178023.72,37.8,30.2,145.5
+PRD-00483,Kaveri Saree Pro,Apparel,Saree,False,False,False,693,2.72,,2023-05-07,1.12,,INR,85424.02,87.8,18.7,106.0
+PRD-00226,Meridian Recliner Lite,Furniture,Recliner,False,False,False,766,4.78,"new, clearance",2021-06-16,13.16,,INR,89328.86,45.0,115.8,138.9
+PRD-00078,Meridian Smartphone Max,Electronics,Smartphone,True,False,False,472,4.52,"premium, eco",2021-09-06,2.75,True,INR,63839.02,98.4,84.3,19.9
+PRD-00506,Tamira Saree Lite,apparel,Saree,False,False,False,506,4.94,new,2021-08-05,0.51,False,INR,130910.39,165.0,98.5,52.8
+PRD-00122,Nexon Microwave Classic,Home Appliance,Microwave,False,False,False,891,2.73,"new, premium, bestseller",2022-12-03,9.28,False,INR,134106.61,175.4,25.2,45.8
+PRD-00439,UrbanCraft Saree Classic,Apparel,Saree,False,False,False,452,2.88,,2023-08-25,0.45,,INR,33305.54,,,
+PRD-00102,UrbanCraft Tablet Lite,Electronics,Tablet,True,False,False,544,3.59,"clearance, new, fragile-handle",2023-02-10,0.96,False,INR,26805.33,10.6,99.3,138.2
+PRD-00706,Nexon Motor Assembly,Industrial,Motor Assembly,False,True,False,301,2.7,"new, eco",2021-11-23,259.92,True,INR,150843.67,138.9,16.6,94.7
+PRD-00105,Zenith Smartwatch 2024,Electronics,Smartwatch,True,False,False,605,4.44,,2021-12-25,0.96,,INR,6066.35,160.5,21.5,11.0
+PRD-00478,Aravind Running Shoes,Apparel,Running Shoes,False,False,False,780,3.26,,2023-05-29,0.62,False,INR,112176.88,64.9,97.3,52.3
+PRD-00548,UrbanCraft Vaccine Box Pro,Pharma,Vaccine Box,True,True,True,793,4.45,,2023-04-06,4470.0,True,INR,9503.8,137.4,54.8,69.0
+PRD-00303,UrbanCraft Office Chair Pro,Furniture,Office Chair,True,False,False,341,4.65,,2021-03-29,65.86,,INR,175709.88,179.0,7.7,141.7
+PRD-00188,Meridian Microwave Classic,Home Appliance,Microwave,True,False,False,528,3.2,fragile-handle,2021-12-30,,,INR,142603.34,,,
+PRD-00275,Kaveri Recliner Lite,Furniture,Recliner,False,False,False,739,2.74,,2022-08-23,106.66,False,INR,117282.39,78.6,48.5,110.7
+PRD-00771,Meridian Textbook,Books,Textbook,True,False,False,513,4.34,fragile-handle,2020-09-21,3.82,,INR,107736.85,81.5,105.1,104.6
+PRD-00509,Nexon Jacket Classic,Apparel,Jacket,False,False,False,-9,3.94,,2022-01-15,1.3,True,INR,186229.4,77.1,105.7,31.8
+PRD-00740,Zenith Motor Assembly 2024,Industrial,Motor Assembly,True,True,False,-19,4.19,"fragile-handle, clearance",2022-10-08,758.38,True,INR,147393.44,131.5,95.7,31.1
+PRD-00246,Vayu Office Chair 2024,Furniture,Office Chair,True,False,False,672,3.34,"fragile-handle, clearance, eco",2021-02-13,13.13,True,INR,33276.07,112.2,42.5,31.9
+PRD-00782,Kaveri Textbook,Books,Textbook,False,False,False,185,4.55,"eco, bestseller",2023-09-16,0.66,,INR,107127.14,146.4,6.8,127.7
+PRD-00543,Tamira Insulin Pack Lite,Pharma,Insulin Pack,True,True,False,550,2.92,,2023-08-20,4.71,True,INR,92089.25,26.7,108.0,66.0
+PRD-00180,Zenith Air Purifier Pro,Home Appliance,Air Purifier,False,False,False,393,2.73,,2021-03-21,30.68,True,INR,168856.21,60.4,77.7,134.4
+PRD-00501,Vayu Running Shoes 2024,Apparel,Running Shoes,False,False,False,220,3.57,,2022-07-04,0.24,True,INR,73865.27,77.1,52.2,40.1
+PRD-00589,Kaveri Vaccine Box 2024,Pharma,Vaccine Box,False,True,False,473,2.89,premium,2022-06-13,4.91,False,INR,129184.67,111.9,9.4,59.5
+PRD-00362,Zenith Spice Pack 2024,Groceries,Spice Pack,False,False,False,20,3.93,eco,2021-02-14,8.76,,INR,169016.21,116.2,55.9,93.8
+PRD-00182,Aravind Mixer Grinder Max,Home Appliance,Mixer Grinder,True,False,False,639,4.99,"eco, fragile-handle",2021-08-19,24.35,False,INR,66244.13,178.3,87.5,124.7
+PRD-00084,Meridian Headphones Lite,Electronics,Headphones,True,False,False,654,3.1,"eco, fragile-handle",2021-04-03,0.71,,INR,173946.03,114.2,31.5,13.5
+PRD-00699,Nexon Motor Assembly Max,Industrial,Motor Assembly,True,True,False,738,3.51,fragile-handle,2023-06-09,,,INR,157382.41,,,
+PRD-00549,Meridian Insulin Pack Max,pharma,Insulin Pack,False,True,False,317,2.69,"fragile-handle, premium, clearance",2021-03-22,,,INR,96470.75,,,
+PRD-00152,Tamira Vacuum Cleaner Max,Home Appliance,Vacuum Cleaner,False,False,False,823,2.89,"eco, clearance",2022-09-14,40.82,False,INR,77854.02,10.7,57.2,78.8
+PRD-00721,Vayu Generator Unit 2024,Industrial,Generator Unit,False,True,False,614,2.73,,2022-03-24,4022.55,,INR,4088.25,21.0,51.5,134.7
+PRD-00169,Meridian Mixer Grinder Max,Home Appliance,Mixer Grinder,True,False,False,703,2.76,,2022-11-16,21.81,True,INR,116533.72,94.6,44.2,148.2
+PRD-00206,Vayu Recliner 2024,Furniture,Recliner,False,False,False,280,4.49,clearance,2023-11-30,94.93,True,INR,59720.89,57.2,103.2,40.6
+PRD-00117,Zenith Mixer Grinder Lite,Home Appliance,Mixer Grinder,True,False,False,666,4.27,bestseller,2023-10-01,20.68,True,INR,141556.14,58.0,75.7,124.6
+PRD-00124,Zenith Air Purifier Pro,Home Appliance,Air Purifier,True,False,False,382,3.2,"eco, clearance, premium",2021-08-11,,,INR,50827.8,,,
+PRD-00057,Vayu Smartwatch Max,Electronics,Smartwatch,True,False,False,187,2.61,"clearance, new, premium",2021-04-28,1.51,False,INR,186560.24,100.6,92.0,116.8
+PRD-00338,Kaveri Cooking Oil Pro,Groceries,Cooking Oil,False,False,False,304,4.72,,2022-10-19,14.47,True,INR,101071.78,6.6,65.4,45.6
+PRD-00089,Aravind Smartphone 2024,Electronics,Smartphone,False,False,False,200,2.81,,2023-10-14,0.69,False,INR,565.73,124.1,106.2,123.8
+PRD-00364,Zenith Rice Bag Classic,Groceries,Rice Bag,True,False,False,608,3.11,,2022-06-27,16.96,,INR,93007.02,25.6,55.3,12.5
+PRD-00249,Vayu Study Table Classic,Furniture,Study Table,False,False,False,18,4.14,"new, clearance",2023-09-13,,,INR,183252.8,,,
+PRD-00288,Aravind Bookshelf Max,Furniture,Bookshelf,True,False,False,55,2.66,"premium, fragile-handle",2020-10-30,111.83,,INR,69997.61,91.3,24.5,3.0
+PRD-00335,UrbanCraft Cooking Oil Lite,Groceries,Cooking Oil,False,False,False,113,4.19,"bestseller, eco, fragile-handle",2022-09-27,19.7,False,INR,42988.08,104.6,71.7,122.2
+PRD-00002,Aravind Headphones,Electronics,Headphones,False,False,False,291,4.94,premium,2021-03-15,,,INR,22634.25,,,
+PRD-00544,Meridian Insulin Pack Pro,Pharma,Insulin Pack,True,True,False,829,3.87,fragile-handle,2023-02-21,1.96,False,INR,1873.5,177.0,102.5,24.1
+PRD-00264,Nexon Study Table,Furniture,Study Table,False,False,False,383,2.81,"clearance, bestseller",2022-03-27,23.97,False,INR,162847.28,44.6,45.1,41.6
+PRD-00646,UrbanCraft Steel Coil Max,Industrial,Steel Coil,True,True,False,879,2.61,clearance,2022-03-06,3751.57,,INR,30628.78,27.6,93.1,72.2
+PRD-00405,Meridian Spice Pack Pro,Groceries,Spice Pack,False,False,False,44,2.62,"eco, new, clearance",2021-11-09,14.94,True,INR,20481.02,100.2,29.1,75.8
+PRD-00174,Zenith Vacuum Cleaner,Home Appliance,Vacuum Cleaner,True,False,False,256,2.74,new,2023-03-02,14.84,True,INR,63762.0,177.1,6.6,108.3
+PRD-00547,Nexon Medical Kit Lite,Pharma,Medical Kit,True,True,True,348,4.87,,2021-09-06,0.31,True,INR,132127.43,45.6,7.8,5.9
+PRD-00339,Meridian Dry Fruits Classic,Groceries,Dry Fruits,False,False,False,67,2.91,"premium, bestseller",2021-05-08,6.36,False,INR,57241.18,8.5,91.3,9.4
+PRD-00318,Tamira Cooking Oil,Groceries,Cooking Oil,False,False,False,532,4.72,,2023-05-18,18.59,True,INR,150894.97,166.3,22.3,112.3
+PRD-00610,Kaveri Vaccine Box Classic,Pharma,Vaccine Box,True,True,False,98,3.71,,2021-10-16,0.48,,INR,109670.83,10.2,84.5,76.2
+PRD-00199,Aravind Mixer Grinder Lite,Home Appliance,Mixer Grinder,True,False,False,601,2.54,,2022-05-15,16.22,False,INR,6337.3,171.3,60.0,27.9
+PRD-00260,Nexon Bookshelf Pro,Furniture,Bookshelf,True,False,False,754,4.47,premium,2023-07-20,108.47,True,INR,11407.19,120.7,104.0,16.3
+PRD-00025,Kaveri Smartphone Pro,electronics,Smartphone,False,False,False,264,4.86,premium,2021-04-09,,,INR,113836.79,,,
+PRD-00773,Meridian Textbook Classic,Books,Textbook,False,False,False,95,2.52,"premium, eco",2022-05-19,3.84,False,INR,93702.29,61.8,22.3,21.0
+PRD-00516,Vayu Saree Classic,Apparel,Saree,True,False,False,141,2.95,"eco, new",2023-03-18,1.85,False,INR,62994.72,19.4,11.6,45.6
+PRD-00127,Aravind Air Purifier 2024,Home Appliance,Air Purifier,True,False,False,-17,,"premium, fragile-handle",2022-06-13,28.69,False,INR,71984.98,119.7,100.0,124.0
+PRD-00158,Nexon Air Purifier Classic,Home Appliance,Air Purifier,True,False,False,552,4.81,,2023-02-05,11.27,False,INR,54461.13,46.9,114.2,127.1
+PRD-00255,Vayu Bookshelf Lite,Furniture,Bookshelf,True,False,False,681,2.59,new,2023-06-25,19.79,,INR,139052.6,93.1,80.3,20.6
+PRD-00749,Nexon Textbook Max,Books,Textbook,False,False,False,504,2.76,,2022-09-30,2.36,False,INR,85061.79,88.6,61.0,143.3
+PRD-00342,UrbanCraft Dry Fruits Pro,groceries,Dry Fruits,True,False,False,577,2.72,,2020-09-22,9.68,False,INR,125927.68,114.0,116.2,69.7
+PRD-00463,Aravind Jacket Max,Apparel,Jacket,True,False,False,14,4.26,"fragile-handle, eco",2023-08-01,0.35,False,INR,145135.15,83.1,82.3,142.2
+PRD-00625,Meridian Vaccine Box 2024,pharma,Vaccine Box,True,True,True,856,3.12,"eco, premium, clearance",2020-10-09,4.38,,INR,123080.52,150.5,105.9,64.1
+PRD-00554,Zenith Vaccine Box 2024,Pharma,Vaccine Box,False,True,True,884,2.81,"eco, bestseller, premium",2022-09-20,330.0,,INR,49523.44,64.4,6.1,107.2
+PRD-00719,Kaveri Steel Coil,industrial,Steel Coil,True,True,False,486,3.76,"fragile-handle, eco, bestseller",2022-08-22,1732.29,True,INR,146576.42,33.8,21.2,95.6
+PRD-00426,Zenith Saree,Apparel,Saree,True,False,False,333,3.71,"eco, new, fragile-handle",2022-03-03,1.01,True,INR,17203.92,170.4,100.9,92.2
+PRD-00649,Meridian Steel Coil Lite,Industrial,Steel Coil,False,True,False,653,4.81,"new, clearance",2021-10-25,2578.48,False,INR,72771.91,8.3,27.0,83.3
+PRD-00650,UrbanCraft Generator Unit,Industrial,Generator Unit,False,True,False,471,3.62,"eco, bestseller",2022-07-20,3629470.0,False,INR,177968.18,98.7,67.1,126.7
+PRD-00308,Nexon Recliner Lite,Furniture,Recliner,False,False,False,429,4.59,"eco, new, clearance",2022-11-01,110.32,False,INR,166575.1,112.0,8.7,18.2
+PRD-00446,Zenith Jacket,Apparel,Jacket,True,False,False,736,3.98,eco,2022-08-25,1.7,True,INR,83934.69,122.7,118.1,140.8
+PRD-00328,Nexon Rice Bag Lite,Groceries,Rice Bag,True,False,False,819,3.5,"clearance, bestseller, fragile-handle",2022-06-12,9.95,True,INR,137120.06,103.8,113.5,73.6
+PRD-00293,Kaveri Recliner Max,Furniture,Recliner,False,False,False,27,4.1,"new, premium, clearance",2023-06-24,14.73,True,INR,91865.75,66.5,71.0,113.8
+PRD-00700,UrbanCraft Generator Unit 2024,Industrial,Generator Unit,False,True,False,894,4.31,eco,2021-02-18,1688.25,False,INR,169917.32,105.0,69.9,64.5
+PRD-00526,UrbanCraft T-Shirt Lite,Apparel,T-Shirt,True,False,False,669,,,2022-10-02,,,INR,59185.05,,,
+PRD-00075,UrbanCraft Tablet 2024,Electronics,Tablet,True,False,False,58,4.49,premium,2023-12-04,1.05,True,INR,167112.32,155.8,55.4,3.1
+PRD-00723,Nexon Generator Unit Classic,Industrial,Generator Unit,False,True,False,698,4.33,"fragile-handle, bestseller",2021-09-28,,,INR,10393.73,,,
+PRD-00244,Meridian Bookshelf Classic,Furniture,Bookshelf,True,False,False,488,3.48,"new, fragile-handle",2023-09-06,34.61,False,INR,106715.31,83.4,13.6,119.0
+PRD-00486,Zenith Saree Classic,Apparel,Saree,False,False,False,745,4.5,"new, clearance",2021-04-01,1.59,True,INR,25223.92,65.1,103.8,11.8
+PRD-00253,UrbanCraft Study Table Pro,Furniture,Study Table,False,False,False,662,3.83,"premium, bestseller, clearance",2021-10-25,36.89,,INR,51338.16,104.9,40.2,72.4
+PRD-00262,Vayu Bookshelf Classic,Furniture,Bookshelf,False,False,False,278,4.0,bestseller,2020-11-18,50.0,,INR,32666.68,106.5,59.7,142.6
+PRD-00399,Zenith Rice Bag Lite,Groceries,Rice Bag,False,False,False,823,4.07,"premium, fragile-handle, clearance",2023-10-02,24.58,False,INR,182483.81,57.8,81.8,129.9
+PRD-00512,Meridian T-Shirt Pro,Apparel,T-Shirt,False,False,False,660,4.53,,2023-08-17,1.47,,INR,174466.68,148.3,101.5,103.0
+PRD-00527,Aravind T-Shirt Pro,Apparel,T-Shirt,False,False,False,533,4.31,"clearance, premium, eco",2021-04-21,,,INR,185769.96,,,
+PRD-00720,Kaveri Generator Unit 2024,Industrial,Generator Unit,False,True,False,269,3.41,"clearance, new",2022-07-06,2957.41,False,INR,154011.68,82.4,11.0,108.2
+PRD-00108,Tamira Smartwatch Classic,Electronics,Smartwatch,False,False,False,450,3.03,new,2023-08-22,2.15,,INR,144051.49,80.8,108.1,131.3
+PRD-00442,Aravind Saree Lite,Apparel,Saree,False,False,False,717,4.57,"new, clearance, eco",2022-03-27,1.2,True,INR,21390.81,135.9,37.0,7.5
+PRD-00319,Meridian Cooking Oil Pro,Groceries,Cooking Oil,False,False,False,660,2.52,"eco, new",2023-02-01,4.55,True,INR,53273.18,142.7,80.7,89.6
+PRD-00048,Vayu Smartwatch,Electronics,Smartwatch,True,False,False,126,4.92,"eco, clearance, bestseller",2021-04-12,1.63,,INR,132141.44,75.7,40.4,103.3
+PRD-00074,Vayu Headphones Lite,Electronics,Headphones,True,False,False,255,3.75,,2021-12-17,1.02,False,INR,71158.42,71.1,62.2,10.5
+PRD-00137,Zenith Vacuum Cleaner Max,Home Appliance,Vacuum Cleaner,False,False,False,744,2.71,new,2022-04-30,,,INR,171985.46,,,
+PRD-00085,Vayu Tablet Pro,Electronics,Tablet,True,False,False,900,3.44,"new, eco, fragile-handle",2023-02-28,2.29,False,INR,46235.94,65.1,10.6,143.4
+PRD-00276,Nexon Office Chair Classic,Furniture,Office Chair,False,False,False,528,3.04,fragile-handle,2022-05-27,53.44,True,INR,58103.94,127.4,57.6,40.3
+PRD-00366,Zenith Cooking Oil 2024,Groceries,Cooking Oil,True,False,False,896,2.56,"fragile-handle, bestseller, clearance",2023-05-23,13.88,,INR,18897.96,18.9,99.1,65.6
+PRD-00518,Kaveri Jacket Pro,Apparel,Jacket,False,False,False,587,,,2022-12-14,1.23,True,INR,36592.39,149.4,21.4,94.2
+PRD-00381,Nexon Dry Fruits,Groceries,Dry Fruits,False,False,False,716,3.11,,2023-06-20,20.25,True,INR,123895.53,40.2,82.8,83.6
+PRD-00343,Meridian Cooking Oil Pro,Groceries,Cooking Oil,False,False,False,870,3.67,premium,2023-07-18,11.29,True,INR,128325.16,132.5,89.1,56.7
+PRD-00591,Zenith Vaccine Box Pro,Pharma,Vaccine Box,True,True,True,860,2.93,"bestseller, new, fragile-handle",2023-10-17,2.93,True,INR,121992.46,62.3,87.2,70.6
+PRD-00280,Nexon Office Chair Pro,Furniture,Office Chair,True,False,False,445,3.13,"bestseller, fragile-handle",2022-02-19,117.58,,INR,139607.58,147.8,39.9,91.5
+PRD-00225,Meridian Recliner Lite,Furniture,Recliner,False,False,False,516,3.14,"eco, fragile-handle",2022-10-06,60.39,,INR,177140.24,115.6,48.2,115.8
+PRD-00815,Kaveri Comic Set Max,Books,Comic Set,True,False,False,536,3.61,"bestseller, eco, fragile-handle",2023-01-30,3.53,False,INR,41063.11,26.2,53.4,40.3
+PRD-00150,Zenith Mixer Grinder Lite,Home Appliance,Mixer Grinder,False,False,False,86,,,2022-07-05,19.72,,INR,124356.27,155.5,48.7,93.1
+PRD-00007,Tamira Smartwatch Classic,Electronics,Smartwatch,True,False,False,767,4.34,"fragile-handle, bestseller, clearance",2022-02-10,0.64,,INR,139086.3,25.6,88.3,30.5
+PRD-00599,Vayu Insulin Pack,Pharma,Insulin Pack,True,True,True,56,2.86,clearance,2022-07-27,1.32,False,INR,1852.53,175.6,7.8,7.6
+PRD-00056,Meridian Smartphone,Electronics,Smartphone,False,False,False,754,4.0,"bestseller, new, premium",2021-06-14,2.29,False,INR,81944.17,50.9,48.6,80.2
+PRD-00215,Aravind Recliner Lite,Furniture,Recliner,True,False,False,837,4.27,"eco, new, premium",2022-07-15,116.96,,INR,142606.23,132.3,93.6,133.2
+PRD-00389,Nexon Dry Fruits Max,Groceries,Dry Fruits,False,False,False,656,4.16,,2022-05-31,,,INR,38416.34,,,
+PRD-00072,Aravind Smartphone Classic,Electronics,Smartphone,True,False,False,369,3.43,premium,2021-05-21,1.35,False,INR,161990.31,134.4,106.3,137.2
+PRD-00715,Aravind Motor Assembly 2024,Industrial,Motor Assembly,False,True,False,178,4.07,"bestseller, clearance",2022-06-12,2448.99,,INR,71333.77,166.8,67.5,131.9
+PRD-00704,Meridian Motor Assembly Max,Industrial,Motor Assembly,False,True,False,674,,"fragile-handle, eco, bestseller",2023-11-09,3109.44,,INR,44461.05,172.4,109.3,77.5
+PRD-00298,Kaveri Bookshelf Max,Furniture,Bookshelf,True,False,False,355,4.47,new,2022-12-23,87.67,,INR,91140.61,12.9,113.0,71.4
+PRD-00745,Meridian Novel Lite,Books,Novel,False,False,False,822,2.57,"fragile-handle, clearance",2022-08-21,1.57,False,INR,177537.36,51.5,62.9,68.6
+PRD-00767,Kaveri Textbook Lite,Books,Textbook,False,False,False,408,3.05,premium,2020-12-15,3.94,,INR,163296.05,116.0,111.7,116.8
+PRD-00759,Meridian Textbook 2024,Books,Textbook,False,False,False,515,3.15,"fragile-handle, bestseller, clearance",2021-03-07,3.53,False,INR,115187.75,161.0,75.4,6.0
+PRD-00151,Vayu Vacuum Cleaner 2024,Home Appliance,Vacuum Cleaner,True,False,False,58,3.21,"eco, premium, clearance",2023-05-16,27.36,True,INR,30375.89,166.4,107.9,13.5
+PRD-00698,Meridian Generator Unit Pro,Industrial,Generator Unit,False,True,False,469,3.98,clearance,2023-07-22,2796.43,False,INR,33149.96,122.3,6.7,145.4
+PRD-00750,Aravind Textbook Pro,Books,Textbook,False,False,False,72,,eco,2021-11-29,3.29,False,INR,57142.57,178.4,91.8,83.0
+PRD-00503,Kaveri T-Shirt Lite,Apparel,T-Shirt,False,False,False,523,3.29,premium,2022-09-12,1.86,,INR,61398.75,65.6,23.8,146.9
+PRD-00714,Zenith Generator Unit Pro,Industrial,Generator Unit,False,True,False,828,3.5,"premium, new",2022-01-26,1728.39,False,INR,165158.44,130.0,102.5,79.7
+PRD-00205,Tamira Office Chair Pro,Furniture,Office Chair,True,False,False,434,3.85,"eco, new, fragile-handle",2022-04-02,111.07,True,INR,141525.89,119.8,91.7,86.6
+PRD-00184,Nexon Air Purifier Max,Home Appliance,Air Purifier,True,False,False,156,2.66,new,2022-07-15,43.62,,INR,36351.96,6.6,6.8,134.1
+PRD-00161,Vayu Air Purifier Max,Home Appliance,Air Purifier,True,False,False,63,4.29,"bestseller, eco",2023-03-02,44.21,True,INR,11000.31,,,
+PRD-00792,Zenith Textbook,Books,Textbook,False,False,False,686,4.44,clearance,2022-03-28,0.62,True,INR,81407.75,106.5,85.6,112.7
+PRD-00800,Aravind Comic Set Lite,Books,Comic Set,True,False,False,804,4.49,"clearance, premium, fragile-handle",2021-09-15,3.57,False,INR,64314.41,25.6,46.9,92.0
+PRD-00129,Zenith Microwave,Home Appliance,Microwave,True,False,False,554,4.47,clearance,2023-06-15,22.81,True,INR,77456.29,24.3,57.9,129.2
+PRD-00772,Vayu Novel Lite,Books,Novel,False,False,False,542,4.59,"new, premium",2021-08-04,1.02,,INR,156972.72,139.9,71.7,135.7
+PRD-00818,Nexon Textbook Max,Books,Textbook,True,False,False,303,3.21,"new, bestseller",2021-07-11,3.81,False,INR,125283.59,12.4,66.0,25.3
+PRD-00162,Kaveri Air Purifier Classic,Home Appliance,Air Purifier,False,False,False,35,3.8,"new, premium, clearance",2023-01-14,42.17,,INR,177266.98,117.6,102.2,27.0
+PRD-00178,Nexon Vacuum Cleaner Max,Home Appliance,Vacuum Cleaner,False,False,False,231,2.94,,2020-12-23,21.68,False,INR,76191.04,100.8,10.4,69.4
+PRD-00643,Vayu Generator Unit Lite,Industrial,Generator Unit,True,True,False,607,4.43,"clearance, new, bestseller",2022-06-07,4147.12,,INR,47407.55,67.6,35.2,18.0
+PRD-00799,UrbanCraft Textbook 2024,Books,Textbook,False,False,False,377,4.32,"eco, premium, bestseller",2022-04-23,2.0,True,INR,48073.3,126.5,50.9,119.2
+PRD-00232,Meridian Recliner Lite,Furniture,Recliner,False,False,False,398,4.86,"bestseller, eco, fragile-handle",2020-10-08,,,INR,64250.23,,,
+PRD-00062,Tamira Smartphone Lite,Electronics,Smartphone,True,False,False,471,3.81,"clearance, premium",2021-10-22,1.06,True,INR,41135.54,153.4,78.9,24.3
+PRD-00731,Meridian Steel Coil Max,Industrial,Steel Coil,False,True,False,683,3.69,fragile-handle,2022-01-16,1855.54,,INR,143808.52,137.2,40.3,38.3
+PRD-00736,Zenith Motor Assembly Max,Industrial,Motor Assembly,False,True,False,126,3.18,"premium, clearance",2023-02-18,3599.31,True,INR,89600.45,45.1,21.2,30.0
+PRD-00410,UrbanCraft Cooking Oil,Groceries,Cooking Oil,False,False,False,176,4.66,new,2021-04-02,16.39,False,INR,35827.71,148.6,52.5,71.9
+PRD-00563,Meridian Insulin Pack,Pharma,Insulin Pack,True,True,True,386,3.44,,2021-12-03,1.98,True,INR,73770.69,70.8,15.5,132.5
+PRD-00435,Nexon T-Shirt,Apparel,T-Shirt,False,False,False,180,4.1,"clearance, new",2023-06-20,0.34,True,INR,148319.93,58.3,30.1,3.8
+PRD-00541,Zenith Medical Kit,Pharma,Medical Kit,True,True,False,257,3.97,new,2023-10-26,1.61,False,INR,157207.42,67.4,52.7,87.3
+PRD-00384,Tamira Rice Bag 2024,Groceries,Rice Bag,False,False,False,119,4.66,,2022-12-05,7.11,,INR,99212.87,53.6,7.4,125.1
+PRD-00530,UrbanCraft Jacket Pro,Apparel,Jacket,False,False,False,212,3.39,bestseller,2021-08-14,0.47,False,INR,132347.34,102.0,64.0,69.4
+PRD-00320,UrbanCraft Spice Pack Max,Groceries,Spice Pack,False,False,False,291,3.66,"new, eco",2022-09-05,12.63,True,INR,156090.68,131.8,68.5,30.9
+PRD-00710,Aravind Generator Unit,Industrial,Generator Unit,False,True,False,362,2.84,clearance,2023-10-03,2984.01,False,INR,17309.54,114.7,97.3,45.9
+PRD-00550,Meridian Medical Kit Pro,Pharma,Medical Kit,True,True,True,13,,clearance,2022-05-14,0.22,False,INR,6302.31,159.4,48.2,16.8
+PRD-00234,Nexon Bookshelf 2024,Furniture,Bookshelf,False,False,False,186,2.52,"fragile-handle, clearance, premium",2021-02-11,52.61,,INR,124163.47,21.8,37.9,102.4
+PRD-00324,Meridian Spice Pack 2024,Groceries,Spice Pack,False,False,False,881,2.91,"bestseller, eco, premium",2021-09-17,7.75,True,INR,181258.73,97.5,10.3,140.1
+PRD-00186,UrbanCraft Vacuum Cleaner Pro,Home Appliance,Vacuum Cleaner,True,False,False,657,3.58,premium,2023-04-14,21.18,,INR,105497.08,14.9,57.8,21.3
+PRD-00295,Aravind Recliner Pro,Furniture,Recliner,False,False,False,771,4.27,new,2020-11-28,85.45,,INR,17846.91,,,
+PRD-00763,Zenith Textbook Pro,Books,Textbook,False,False,False,491,3.21,"premium, new",2021-11-06,0.46,False,INR,84630.15,135.6,110.9,146.5
+PRD-00627,Vayu Insulin Pack Max,Pharma,Insulin Pack,False,True,True,93,4.47,"new, eco",2021-06-11,3.13,,INR,141505.84,127.8,23.8,26.4
+PRD-00070,Vayu Smartphone,Electronics,Smartphone,False,False,False,27,4.0,,2020-11-21,2.37,True,INR,18200.71,169.0,93.6,28.3
+PRD-00617,Nexon Medical Kit Lite,pharma,Medical Kit,True,True,True,89,4.66,"eco, new, fragile-handle",2023-04-11,2.3,True,INR,186989.71,131.8,97.7,96.1
+PRD-00407,Tamira Cooking Oil 2024,Groceries,Cooking Oil,False,False,False,471,3.0,,2023-10-12,17.71,,INR,7838.34,101.4,112.8,6.9
+PRD-00360,Meridian Spice Pack 2024,Groceries,Spice Pack,False,False,False,869,2.51,"premium, fragile-handle, new",2023-08-28,,,INR,115853.13,,,
+PRD-00093,UrbanCraft Smartwatch Max,Electronics,Smartwatch,True,False,False,36,4.12,"fragile-handle, bestseller",2021-05-15,0.79,,INR,61170.72,82.8,97.3,104.3
+PRD-00356,Tamira Cooking Oil Lite,Groceries,Cooking Oil,False,False,False,271,3.11,"clearance, premium",2021-04-30,5.63,True,INR,26460.97,133.6,97.0,89.3
+PRD-00114,Kaveri Vacuum Cleaner Pro,Home Appliance,Vacuum Cleaner,False,False,False,778,3.11,"clearance, bestseller",2021-01-24,4.31,False,INR,99637.8,38.7,33.8,2.7
+PRD-00296,Vayu Bookshelf Max,Furniture,Bookshelf,True,False,False,672,4.77,,2021-01-15,113.03,,INR,21960.69,85.1,112.5,132.4
+PRD-00743,Vayu Comic Set Classic,Books,Comic Set,False,False,False,309,2.98,"fragile-handle, eco, new",2021-07-15,3.53 kg,False,INR,148331.23,140.9,60.9,24.8
+PRD-00327,Meridian Cooking Oil,Groceries,Cooking Oil,False,False,False,170,4.86,"fragile-handle, bestseller",2021-10-08,4.3,,INR,24079.72,43.7,78.6,140.6
+PRD-00181,Zenith Air Purifier 2024,Home Appliance,Air Purifier,False,False,False,470,4.67,,2022-09-03,6.01,False,INR,53295.14,123.8,73.2,106.5
+PRD-00492,Nexon Saree Classic,Apparel,Saree,True,False,False,10,3.15,new,2022-09-03,0.44,False,INR,75153.77,164.6,35.2,42.8
+PRD-00765,Meridian Textbook Classic,Books,Textbook,False,False,False,237,4.06,,2021-05-13,2.03,True,INR,4823.35,133.8,35.9,112.8
+PRD-00088,UrbanCraft Smartwatch Max,Electronics,Smartwatch,True,False,False,524,4.24,"clearance, premium, new",2021-11-29,0.88,True,INR,30862.96,152.2,45.2,124.5
+PRD-00829,Vayu Comic Set,Books,Comic Set,False,False,False,137,2.52,eco,2023-05-22,3.86,False,INR,63196.5,132.6,11.3,14.2
+PRD-00682,Aravind Motor Assembly 2024,Industrial,Motor Assembly,False,True,False,527,4.83,"fragile-handle, new",2023-05-01,672.98,True,INR,59765.9,80.0,75.7,79.8
+PRD-00618,Vayu Insulin Pack Max,Pharma,Insulin Pack,False,True,True,61,3.2,fragile-handle,2023-11-16,1.0,False,INR,19149.35,11.9,116.2,97.3
+PRD-00424,Tamira Saree Max,Apparel,Saree,False,False,False,10,3.6,"clearance, bestseller, eco",2021-03-24,1.42,True,INR,151565.24,54.6,56.1,128.8
+PRD-00484,Meridian Jacket 2024,Apparel,Jacket,True,False,False,386,4.83,"bestseller, clearance, premium",2020-11-25,0.54,False,INR,38083.91,49.9,112.1,119.3
+PRD-00570,Tamira Medical Kit Pro,Pharma,Medical Kit,True,True,True,440,2.59,"bestseller, clearance, eco",2021-07-08,3.3,False,INR,176354.38,147.2,18.8,123.6
+PRD-00578,Aravind Medical Kit 2024,Pharma,Medical Kit,True,True,False,440,3.64,"premium, fragile-handle, clearance",2021-01-07,1.52,False,INR,167291.38,108.6,49.1,131.2
+PRD-00047,Zenith Tablet,Electronics,Tablet,False,False,False,89,2.61,premium,2022-10-12,0.63,True,INR,179809.74,58.3,110.6,21.2
+PRD-00149,Aravind Microwave Classic,Home Appliance,Microwave,False,False,False,357,2.76,,2023-06-29,27.0,False,INR,23936.69,5.6,70.0,129.3
+PRD-00737,UrbanCraft Motor Assembly Max,Industrial,Motor Assembly,False,True,False,197,3.23,"clearance, bestseller",2021-07-13,3772.31,True,INR,104404.08,28.3,30.8,135.1
+PRD-00596,Meridian Medical Kit 2024,Pharma,Medical Kit,True,True,True,552,3.33,"premium, new",2020-12-14,2.71,,INR,174838.7,144.8,97.9,97.1
+PRD-00686,Vayu Steel Coil Pro,Industrial,Steel Coil,False,True,False,814,4.98,new,2021-11-01,3003.8,True,INR,7768.28,136.0,110.0,126.5
+PRD-00688,UrbanCraft Steel Coil,Industrial,Steel Coil,False,True,False,865,3.12,new,2022-05-14,3859.56,False,INR,133019.85,45.4,97.7,134.6
+PRD-00786,Aravind Novel,Books,Novel,False,False,False,226,4.79,eco,2021-12-14,2.46,,INR,134169.14,16.8,48.2,77.1
+PRD-00222,Tamira Recliner Lite,Furniture,Recliner,False,False,False,43,4.5,"eco, clearance, fragile-handle",2022-02-28,104.66,,INR,49417.12,137.3,27.7,29.3
+PRD-00675,Aravind Generator Unit Max,Industrial,Generator Unit,True,True,False,20,2.97,bestseller,2021-05-05,3387.52,,INR,54432.19,44.2,104.3,149.8
+PRD-00697,Aravind Steel Coil Max,Industrial,Steel Coil,False,True,False,303,3.51,"new, premium, clearance",2022-05-22,3143.94,True,INR,92569.36,40.1,23.2,15.1
+PRD-00420,Tamira T-Shirt,Apparel,T-Shirt,True,False,False,-18,4.58,,2023-11-02,0.42,True,INR,180713.58,90.2,31.0,15.4
+PRD-00663,Tamira Motor Assembly Classic,Industrial,Motor Assembly,True,True,False,243,4.56,"fragile-handle, new, clearance",2020-07-10,3607.75,,INR,161333.3,122.1,94.9,121.4
+PRD-00209,Meridian Office Chair Lite,Furniture,Office Chair,True,False,False,826,4.92,clearance,2020-05-12,30.66,True,INR,45467.62,32.9,31.8,31.3
+PRD-00119,Nexon Air Purifier Max,Home Appliance,Air Purifier,True,False,False,7,4.55,bestseller,2022-09-01,14.0,True,INR,144566.61,56.6,18.4,99.5
+PRD-00292,UrbanCraft Bookshelf Max,Furniture,Bookshelf,True,False,False,90,3.13,"eco, premium",2021-07-01,88.7,False,INR,154697.5,28.9,49.1,98.4
+PRD-00218,Zenith Recliner Classic,Furniture,Recliner,False,False,False,248,3.8,,2021-01-14,56.25,True,INR,153095.14,47.9,14.3,98.0
+PRD-00810,Meridian Comic Set Max,Books,Comic Set,True,False,False,854,2.9,"clearance, bestseller, fragile-handle",2021-05-10,2.91,False,INR,34722.03,157.2,63.7,49.9
+PRD-00370,Aravind Cooking Oil 2024,Groceries,Cooking Oil,False,False,False,67,3.7,"clearance, new, eco",2023-05-19,1.74,True,INR,34069.0,176.7,88.7,103.9
+PRD-00661,UrbanCraft Steel Coil Max,Industrial,Steel Coil,False,True,False,35,4.49,"premium, new",2023-09-03,2896.04,True,INR,69832.88,84.4,77.8,117.3
+PRD-00676,Nexon Motor Assembly Lite,Industrial,Motor Assembly,True,True,False,80,2.79,,2023-01-27,,,INR,143278.4,,,
+PRD-00408,UrbanCraft Cooking Oil Classic,Groceries,Cooking Oil,False,False,False,428,2.7,"bestseller, clearance, premium",2021-01-16,10.9,True,INR,166969.73,64.6,92.0,80.0
+PRD-00751,Meridian Textbook Pro,Books,Textbook,False,False,False,659,3.58,"fragile-handle, new",2022-05-10,0.65,False,INR,42906.32,36.1,25.6,109.6
+PRD-00648,Vayu Generator Unit,Industrial,Generator Unit,False,True,False,639,,"bestseller, fragile-handle",2021-09-17,1053.48,False,INR,3435.48,,,
+PRD-00037,Vayu Smartwatch Classic,Electronics,Smartwatch,True,False,False,543,4.21,,2022-02-23,0.89,False,INR,85137.24,58.6,25.7,97.2
+PRD-00273,Kaveri Bookshelf Pro,Furniture,Bookshelf,False,False,False,262,3.44,,2022-10-13,37.55,True,INR,112170.55,37.1,28.8,10.9
+PRD-00703,Aravind Steel Coil Lite,Industrial,Steel Coil,False,True,False,415,4.26,"fragile-handle, eco, bestseller",2023-12-03,2469.69 kg,,INR,43428.46,93.1,97.8,98.9
+PRD-00790,Aravind Novel Pro,Books,Novel,False,False,False,598,4.89,,2022-02-09,3.21 kg,True,INR,157802.06,73.9,88.5,38.6
+PRD-00220,Meridian Study Table Pro,Furniture,Study Table,False,False,False,484,4.7,,2023-04-17,83.67,True,INR,129472.77,129.3,93.6,149.0
+PRD-00359,Meridian Dry Fruits Pro,Groceries,Dry Fruits,False,False,False,443,3.04,eco,2021-03-07,21.92,True,INR,134043.91,128.3,19.3,12.3
+PRD-00368,Zenith Dry Fruits Pro,Groceries,Dry Fruits,False,False,False,78,2.53,eco,2022-07-10,11.48,True,INR,141201.53,14.8,11.8,122.3
+PRD-00112,Vayu Headphones Max,Electronics,Headphones,True,False,False,793,3.07,fragile-handle,2021-05-03,2.47,True,INR,187094.04,136.1,35.2,8.6
+PRD-00331,Nexon Spice Pack Pro,Groceries,Spice Pack,False,False,False,898,4.18,"premium, new, eco",2021-07-02,,,INR,53888.11,,,
+PRD-00314,Kaveri Spice Pack,Groceries,Spice Pack,False,False,False,298,3.51,clearance,2021-10-25,7.43,,INR,26734.27,178.4,84.3,105.7
+PRD-00557,Vayu Vaccine Box Max,Pharma,Vaccine Box,True,True,True,265,3.89,fragile-handle,2022-03-26,0.75,,INR,158323.11,110.7,20.5,148.5
+PRD-00556,Zenith Insulin Pack Lite,Pharma,Insulin Pack,True,True,False,801,4.71,clearance,2022-05-06,4.54,False,INR,140569.35,13.2,115.7,107.6
+PRD-00026,Aravind Smartphone Pro,Electronics,Smartphone,False,False,False,132,2.82,"fragile-handle, bestseller",2022-05-18,2.8,,INR,145468.41,66.5,114.1,120.4
+PRD-00562,Zenith Vaccine Box Max,pharma,Vaccine Box,False,True,True,857,3.34,premium,2022-07-27,3.37,False,INR,80243.18,72.8,72.9,148.6
+PRD-00598,Nexon Insulin Pack Pro,Pharma,Insulin Pack,False,True,True,348,2.82,"bestseller, new",2020-11-21,1.51,False,INR,33324.45,178.9,40.1,81.1
+PRD-00110,Aravind Laptop Max,Electronics,Laptop,True,False,False,384,4.44,,2023-08-04,2.96,,INR,46174.14,76.0,55.2,59.4
+PRD-00566,Nexon Medical Kit Pro,Pharma,Medical Kit,True,True,True,194,2.96,"eco, premium",2023-10-26,4.65,True,INR,173909.48,11.0,43.3,9.2
+PRD-00533,Vayu T-Shirt Max,Apparel,T-Shirt,True,False,False,171,3.78,"fragile-handle, eco",2022-05-03,1.36,,INR,151650.44,58.1,117.2,69.8
+PRD-00629,UrbanCraft Medical Kit 2024,Pharma,Medical Kit,True,True,True,593,,new,2022-03-19,0.8,,INR,11174.94,100.2,27.9,51.8
+PRD-00386,Meridian Dry Fruits Classic,Groceries,Dry Fruits,False,False,False,489,3.89,fragile-handle,2021-03-30,16.49,,INR,21620.4,35.8,8.5,45.3
+PRD-00416,Zenith Spice Pack Classic,groceries,Spice Pack,True,False,False,488,4.89,premium,2020-09-23,24.02,,INR,142226.68,125.4,96.2,74.0
+PRD-00788,Vayu Comic Set Classic,Books,Comic Set,False,False,False,330,2.82,"eco, premium, clearance",2021-11-05,0.81,,INR,42802.79,77.0,118.7,95.9
+PRD-00022,Aravind Smartwatch Pro,Electronics,Smartwatch,True,False,False,411,3.31,"bestseller, clearance, new",2023-08-02,2.93,True,INR,103706.55,155.7,101.5,43.4
+PRD-00696,Nexon Steel Coil Lite,Industrial,Steel Coil,True,True,False,56,3.51,"fragile-handle, eco, new",2022-05-13,2971.3,,INR,167115.2,36.5,88.5,141.0
+PRD-00551,Nexon Medical Kit,Pharma,Medical Kit,False,True,True,61,2.97,"new, clearance",2023-10-03,4.11,True,INR,49013.27,137.4,78.3,143.3
+PRD-00769,Nexon Textbook Pro,Books,Textbook,False,False,False,319,3.89,"premium, eco",2021-12-20,0.6,,INR,40087.67,26.4,47.2,78.5
+PRD-00447,Tamira T-Shirt,Apparel,T-Shirt,True,False,False,179,3.73,"fragile-handle, bestseller",2022-11-17,1.33,,INR,167200.09,122.2,28.9,74.4
+PRD-00423,Vayu Jacket Max,Apparel,Jacket,True,False,False,574,4.08,"bestseller, premium",2021-03-26,0.37 kg,False,INR,65097.43,102.1,112.4,45.5
+PRD-00013,Nexon Headphones Max,Electronics,Headphones,True,False,False,-20,3.67,"eco, premium, bestseller",2021-10-10,1.72,,INR,12455.94,148.3,66.1,143.2
+PRD-00363,Vayu Cooking Oil Classic,Groceries,Cooking Oil,True,False,False,163,4.68,"eco, new, premium",2021-07-26,4.59,False,INR,27012.62,47.2,43.3,133.2
+PRD-00601,Tamira Insulin Pack Classic,Pharma,Insulin Pack,True,True,False,195,2.58,,2021-09-04,1.3,,INR,5228.33,77.6,20.6,68.0
+PRD-00185,Aravind Microwave 2024,Home Appliance,Microwave,True,False,False,205,3.42,,2021-09-18,15.43,True,INR,19561.0,115.5,32.7,90.2
+PRD-00287,Aravind Bookshelf,Furniture,Bookshelf,True,False,False,43,,"premium, clearance",2021-01-30,70.66,False,INR,70216.3,157.0,28.2,106.4
+PRD-00480,Zenith Running Shoes 2024,Apparel,Running Shoes,False,False,False,726,3.27,"premium, clearance, eco",2021-11-12,0.56,False,INR,73432.19,50.6,18.1,27.7
+PRD-00671,Zenith Motor Assembly Pro,Industrial,Motor Assembly,True,True,False,554,3.8,"new, fragile-handle",2021-04-23,810.2,,INR,4253.03,160.2,68.6,123.5
+PRD-00498,Aravind Jacket Pro,Apparel,Jacket,False,False,False,677,3.01,"fragile-handle, bestseller",2022-03-21,0.88,,INR,57880.12,139.2,101.0,59.2
+PRD-00195,Kaveri Microwave Pro,home appliance,Microwave,False,False,False,266,2.8,"fragile-handle, eco, new",2021-06-22,17.71,False,INR,100976.57,102.0,55.0,68.6
+PRD-00450,Tamira Jacket 2024,Apparel,Jacket,True,False,False,224,4.96,"clearance, premium, new",2021-01-24,0.76,,INR,5311.82,94.2,38.4,91.4
+PRD-00265,UrbanCraft Study Table Pro,Furniture,Study Table,False,False,False,263,,"clearance, premium, bestseller",2023-10-13,42.77,,INR,3945.93,115.0,92.5,47.9
+PRD-00213,Nexon Recliner Max,Furniture,Recliner,False,False,False,703,4.94,"eco, fragile-handle, clearance",2020-10-22,111.04,,INR,33643.6,55.1,101.5,6.9
+PRD-00798,UrbanCraft Comic Set Max,Books,Comic Set,True,False,False,101,3.27,fragile-handle,2020-07-10,3.35,,INR,8608.96,146.0,60.7,123.9
+PRD-00622,Nexon Medical Kit 2024,Pharma,Medical Kit,True,True,False,93,3.49,premium,2022-07-30,1.62,False,INR,78153.05,21.4,97.2,31.0
+PRD-00457,Vayu T-Shirt,Apparel,T-Shirt,False,False,False,204,3.68,"new, bestseller, clearance",2022-04-14,0.97,True,INR,56745.51,132.9,90.9,140.0
+PRD-00694,Vayu Steel Coil Classic,Industrial,Steel Coil,True,True,False,593,4.78,"new, fragile-handle, clearance",2022-03-03,4255.96,False,INR,75555.42,10.8,58.4,46.6
+PRD-00251,Zenith Bookshelf 2024,Furniture,Bookshelf,False,False,False,849,2.71,clearance,2023-01-22,41.22,False,INR,50956.9,152.8,85.2,34.9
+PRD-00035,Nexon Tablet Classic,Electronics,Tablet,True,False,False,369,3.04,,2021-12-30,1.83,True,INR,54794.37,114.9,103.1,53.2
+PRD-00692,Tamira Generator Unit Classic,Industrial,Generator Unit,False,True,False,720,4.17,"new, bestseller",2021-12-04,4115.31,True,INR,62849.94,67.8,103.3,79.7
+PRD-00472,Nexon T-Shirt Lite,Apparel,T-Shirt,True,False,False,165,2.69,"fragile-handle, new",2023-01-23,0.79,False,INR,173286.51,160.5,54.9,48.1
+PRD-00412,Tamira Dry Fruits Max,Groceries,Dry Fruits,False,False,False,809,2.82,,2021-06-27,9.96,,INR,21687.89,132.0,75.7,24.7
+PRD-00196,Aravind Vacuum Cleaner Lite,Home Appliance,Vacuum Cleaner,True,False,False,599,3.21,"premium, bestseller, new",2023-07-17,6.93,True,INR,175579.54,130.7,102.1,31.7
+PRD-00436,UrbanCraft Running Shoes 2024,apparel,Running Shoes,True,False,False,133,3.18,"fragile-handle, bestseller",2022-01-07,0.94,True,INR,113125.45,,,
+PRD-00462,Zenith Jacket Max,Apparel,Jacket,False,False,False,883,4.87,"eco, premium, clearance",2020-10-30,1.51,,INR,85908.53,79.9,87.5,43.4
+PRD-00748,Aravind Novel Classic,Books,Novel,True,False,False,329,4.14,"clearance, premium",2021-11-25,1.29,True,INR,52393.58,41.4,99.2,78.0
+PRD-00224,Aravind Office Chair Max,Furniture,Office Chair,False,False,False,172,,"bestseller, clearance, premium",2022-01-29,47.17,,INR,187325.86,134.0,21.1,86.6
+PRD-00046,Kaveri Headphones Pro,Electronics,Headphones,True,False,False,697,4.77,,2021-02-10,2.32,True,INR,94642.48,26.7,107.8,29.0
+PRD-00168,Meridian Microwave,Home Appliance,Microwave,True,False,False,410,4.5,fragile-handle,2020-11-13,22440.0,False,INR,13816.18,177.9,51.3,45.1
+PRD-00823,Nexon Textbook,Books,Textbook,False,False,False,198,3.12,,2023-06-21,1.87,False,INR,123370.73,43.9,89.6,40.1
+PRD-00106,Tamira Tablet Pro,Electronics,Tablet,False,False,False,637,2.92,,2021-04-10,0.76,,INR,30915.84,,,
+PRD-00538,Nexon Medical Kit Lite,Pharma,Medical Kit,False,True,True,490,3.69,,2022-07-18,1.56,True,INR,108824.92,109.0,68.3,16.6
+PRD-00624,UrbanCraft Insulin Pack,Pharma,Insulin Pack,True,True,True,124,4.75,,2021-11-19,2.2,,INR,16639.86,59.5,77.5,119.8
+PRD-00340,UrbanCraft Cooking Oil Lite,Groceries,Cooking Oil,False,False,False,158,4.66,bestseller,2020-11-23,5.91 kg,,INR,142127.4,13.1,105.9,72.8
+PRD-00647,Tamira Generator Unit Max,Industrial,Generator Unit,False,True,False,344,3.23,"new, premium",2021-02-23,1576.86,True,INR,140281.92,77.2,60.2,144.0
+PRD-00575,Tamira Insulin Pack Pro,Pharma,Insulin Pack,True,True,False,421,4.31,,2022-05-03,2670.0,True,INR,38962.65,58.4,37.7,13.3
+PRD-00545,Nexon Medical Kit Lite,Pharma,Medical Kit,True,True,False,602,4.45,"bestseller, clearance",2022-06-21,2.33,True,INR,111246.61,137.9,114.1,54.8
+PRD-00256,Kaveri Office Chair Classic,furniture,Office Chair,False,False,False,358,2.66,"premium, clearance, eco",2022-12-03,106.46,,INR,162951.12,57.6,72.3,147.9
+PRD-00628,UrbanCraft Insulin Pack 2024,Pharma,Insulin Pack,True,True,True,301,4.67,bestseller,2023-02-04,2.29,,INR,134976.28,38.1,19.5,38.4
+PRD-00778,UrbanCraft Novel,Books,Novel,False,False,False,516,,,2020-10-28,2.68,False,INR,130259.81,69.5,96.6,113.2
+PRD-00819,UrbanCraft Textbook Classic,Books,Textbook,False,False,False,25,4.62,premium,2021-05-08,1.58,False,INR,176735.16,118.5,103.8,32.1
+PRD-00822,Zenith Novel 2024,Books,Novel,False,False,False,576,3.37,"premium, eco, clearance",2021-02-01,0.57,False,INR,164687.03,169.0,32.0,3.3
+PRD-00147,Tamira Vacuum Cleaner Lite,Home Appliance,Vacuum Cleaner,False,False,False,-20,3.58,bestseller,2022-11-27,25.31,False,INR,111416.55,27.8,26.9,4.0
+PRD-00076,Kaveri Smartwatch Classic,Electronics,Smartwatch,True,False,False,871,2.82,"eco, new, fragile-handle",2023-06-25,1.44,True,INR,6170.96,144.8,57.8,105.7
+PRD-00473,Aravind T-Shirt Classic,Apparel,T-Shirt,False,False,False,738,3.04,,2021-09-03,1.12,True,INR,31969.13,26.6,41.9,111.8
+PRD-00090,Tamira Laptop Classic,Electronics,Laptop,True,False,False,365,4.89,"eco, premium, bestseller",2023-03-21,2.32,False,INR,95874.14,,,
+PRD-00038,Nexon Headphones,Electronics,Headphones,True,False,False,731,,"eco, premium, fragile-handle",2022-12-27,2410.0,False,INR,22066.79,30.7,5.4,138.6
+PRD-00367,Tamira Spice Pack 2024,Groceries,Spice Pack,False,False,False,141,2.67,"bestseller, eco, clearance",2022-09-06,15.2,False,INR,141519.77,137.0,104.3,78.1
+PRD-00717,Tamira Generator Unit Lite,Industrial,Generator Unit,True,True,False,699,3.48,fragile-handle,2020-11-21,839.67,,INR,63189.86,47.9,47.5,4.2
+PRD-00376,UrbanCraft Dry Fruits Pro,Groceries,Dry Fruits,False,False,False,31,4.24,"new, fragile-handle",2022-07-31,16.24,False,INR,164708.37,169.9,117.2,118.2
+PRD-00827,Tamira Novel Pro,Books,Novel,False,False,False,619,2.84,"premium, fragile-handle",2022-12-10,1.12,,INR,135585.09,60.5,54.2,59.0
+PRD-00602,Kaveri Vaccine Box Pro,Pharma,Vaccine Box,True,True,True,768,2.55,new,2021-09-05,1.22,,INR,54877.91,15.7,108.2,25.3
+PRD-00312,UrbanCraft Cooking Oil 2024,groceries,Cooking Oil,True,False,False,522,4.2,"eco, premium",2021-07-02,12.35,,INR,2733.3,,,
+PRD-00346,Nexon Spice Pack Pro,Groceries,Spice Pack,True,False,False,281,4.38,"new, clearance",2023-10-05,13.29,False,INR,3037.55,23.4,39.3,57.0
+PRD-00281,Nexon Office Chair Pro,Furniture,Office Chair,False,False,False,605,3.98,,2023-02-25,,,INR,91325.86,,,
+PRD-00126,Kaveri Vacuum Cleaner Max,Home Appliance,Vacuum Cleaner,True,False,False,832,3.9,"bestseller, clearance, premium",2021-04-06,14.75,False,INR,170864.62,50.4,111.1,34.7
+PRD-00194,Vayu Microwave Max,Home Appliance,Microwave,False,False,False,888,3.27,"fragile-handle, premium, clearance",2022-07-21,7.64,True,INR,131854.83,59.8,17.8,94.9
+PRD-00261,Vayu Recliner Lite,Furniture,Recliner,False,False,False,234,2.56,"bestseller, eco, new",2023-04-27,,,INR,144014.96,,,
+PRD-00001,Meridian Smartphone,Electronics,Smartphone,True,False,False,19,3.06,"bestseller, premium",2021-07-02,0.66,True,INR,146371.36,,,
+PRD-00529,Kaveri Jacket Max,Apparel,Jacket,False,False,False,688,4.99,"bestseller, eco, new",2023-04-09,0.46,,INR,69499.36,59.0,58.8,104.6
+PRD-00612,UrbanCraft Medical Kit 2024,Pharma,Medical Kit,True,True,False,-20,3.74,,2021-08-18,1.52,False,INR,187550.8,87.2,115.8,14.0
+PRD-00481,Zenith T-Shirt 2024,Apparel,T-Shirt,True,False,False,411,3.15,"premium, eco, fragile-handle",2021-03-29,1.28,False,INR,43678.53,34.9,10.7,124.8
+PRD-00824,Kaveri Comic Set Pro,Books,Comic Set,True,False,False,847,4.93,,2022-05-06,0.81,False,INR,105947.43,,,
+PRD-00041,Kaveri Smartphone 2024,Electronics,Smartphone,False,False,False,175,3.74,"fragile-handle, premium, eco",2023-05-29,1.78,False,INR,140802.62,47.3,13.1,71.8
+PRD-00098,Kaveri Smartwatch Pro,Electronics,Smartwatch,False,False,False,702,2.76,"fragile-handle, clearance",2021-08-16,2.28,False,INR,143776.23,70.5,90.3,124.1
+PRD-00762,Meridian Novel 2024,Books,Novel,True,False,False,238,4.46,,2021-09-12,2.67,False,INR,109168.62,33.4,113.9,116.3
+PRD-00658,Tamira Steel Coil Pro,Industrial,Steel Coil,False,True,False,516,4.07,"premium, clearance, new",2022-11-29,1123.46,,INR,72656.28,120.2,54.4,137.0
+PRD-00325,Tamira Cooking Oil 2024,Groceries,Cooking Oil,False,False,False,896,3.19,"premium, clearance",2023-04-13,10.76,True,INR,158546.82,107.0,70.8,4.1
+PRD-00574,Vayu Medical Kit Max,Pharma,Medical Kit,True,True,False,37,4.41,bestseller,2023-03-18,4.55,False,INR,180052.97,115.6,28.1,134.7
+PRD-00010,Tamira Laptop Lite,Electronics,Laptop,True,False,False,799,4.75,"bestseller, new",2021-11-14,2.87,False,INR,90694.89,122.5,42.0,137.3
+PRD-00217,Aravind Study Table Pro,Furniture,Study Table,True,False,False,730,4.26,,2021-07-08,103990.0,False,INR,140418.41,159.7,96.7,36.7
+PRD-00398,Kaveri Cooking Oil Lite,Groceries,Cooking Oil,False,False,False,660,4.2,,2023-06-22,4.23,False,INR,160476.28,29.6,50.6,48.0
+PRD-00811,Vayu Comic Set,Books,Comic Set,True,False,False,66,4.7,,2022-05-18,3.12,False,INR,17425.42,136.8,91.2,7.9
+PRD-00452,Meridian Saree 2024,Apparel,Saree,False,False,False,691,4.59,"clearance, premium, eco",2021-12-04,0.86,,INR,158686.07,122.1,46.1,143.1
+PRD-00252,Aravind Bookshelf Pro,Furniture,Bookshelf,True,False,False,121,2.58,"new, clearance",2022-02-24,105.32 kg,False,INR,166992.54,77.6,110.4,51.2
+PRD-00542,Nexon Vaccine Box Max,Pharma,Vaccine Box,True,True,True,435,3.6,"bestseller, premium, eco",2021-07-01,1.75,,INR,62525.86,,,
+PRD-00555,Nexon Medical Kit,pharma,Medical Kit,True,True,True,532,3.28,eco,2021-09-28,2.58,True,INR,152374.26,,,
+PRD-00358,Kaveri Dry Fruits Pro,Groceries,Dry Fruits,False,False,False,701,2.72,"eco, clearance, fragile-handle",2021-12-22,6.59,True,INR,43475.39,,,
+PRD-00711,Kaveri Generator Unit Pro,Industrial,Generator Unit,False,True,False,369,3.1,"fragile-handle, eco",2023-02-21,697.09,,INR,71983.39,48.7,110.0,14.2
+PRD-00479,Tamira Running Shoes,Apparel,Running Shoes,False,False,False,248,2.78,premium,2021-06-02,0.46,False,INR,28464.06,97.2,31.9,129.7
+PRD-00645,Zenith Steel Coil Classic,Industrial,Steel Coil,True,True,False,599,4.35,"premium, eco, bestseller",2021-06-16,2660.33,,INR,19707.84,10.6,101.6,100.8
+PRD-00834,Vayu Novel,Books,Novel,False,False,False,222,2.81,bestseller,2020-11-26,2.31,,INR,139792.84,16.1,55.6,96.0
+PRD-00053,Nexon Tablet Classic,Electronics,Tablet,True,False,False,74,4.35,"bestseller, new, clearance",2021-02-08,0.89,,INR,154062.83,168.9,37.5,128.3
+PRD-00689,Aravind Motor Assembly,Industrial,Motor Assembly,False,True,False,0,,clearance,2020-09-23,2490.21,,INR,185597.48,104.3,99.5,48.1
+PRD-00690,Kaveri Generator Unit Max,Industrial,Generator Unit,True,True,False,683,4.61,"premium, fragile-handle",2022-02-06,3867.69,True,INR,150046.64,150.3,10.0,21.7
+PRD-00378,Kaveri Rice Bag Max,Groceries,Rice Bag,False,False,False,18,3.76,premium,2021-12-01,17.18,True,INR,57790.04,33.5,34.8,89.4
+PRD-00348,Meridian Cooking Oil Classic,Groceries,Cooking Oil,False,False,False,684,4.73,bestseller,2021-08-17,3.53,True,INR,154211.27,134.1,39.0,115.8
+PRD-00309,UrbanCraft Bookshelf 2024,Furniture,Bookshelf,False,False,False,846,3.24,"new, eco",2023-01-21,112.5,,INR,96999.14,69.3,96.0,16.4
+PRD-00369,Tamira Cooking Oil 2024,Groceries,Cooking Oil,False,False,False,522,2.99,,2023-11-16,23.24,,INR,42895.51,43.6,15.5,94.7
+PRD-00600,Aravind Insulin Pack Pro,Pharma,Insulin Pack,True,True,False,429,4.65,"clearance, premium, fragile-handle",2023-03-18,4.8,,INR,182373.86,83.5,35.3,95.3
+PRD-00493,Meridian Jacket,Apparel,Jacket,True,False,False,560,4.0,"premium, fragile-handle, clearance",2021-07-27,1.13 kg,,INR,175928.0,50.5,19.0,13.1
+PRD-00588,Kaveri Medical Kit Classic,Pharma,Medical Kit,True,True,False,368,4.65,"fragile-handle, bestseller",2022-05-17,4.2,True,INR,162248.05,73.3,113.0,113.4
+PRD-00172,Meridian Vacuum Cleaner Pro,Home Appliance,Vacuum Cleaner,False,False,False,681,4.64,premium,2023-07-25,,,INR,25850.9,,,
+PRD-00776,Meridian Textbook,Books,Textbook,False,False,False,65,4.74,,2023-01-28,2.86,True,INR,79640.41,84.9,91.7,89.3
+PRD-00383,Kaveri Cooking Oil Lite,Groceries,Cooking Oil,False,False,False,113,4.59,"premium, new, clearance",2022-06-21,6.98,,INR,57435.8,144.3,52.6,24.0
+PRD-00372,Aravind Rice Bag Classic,Groceries,Rice Bag,False,False,False,585,4.09,"clearance, eco, fragile-handle",2023-08-18,20.44,True,INR,46885.01,119.3,92.3,8.3
+PRD-00345,UrbanCraft Dry Fruits,Groceries,Dry Fruits,False,False,False,484,2.73,"premium, clearance, eco",2023-05-16,23.29,True,INR,170103.56,156.5,75.1,75.0
+PRD-00565,Meridian Vaccine Box,Pharma,Vaccine Box,True,True,True,740,4.14,bestseller,2021-05-17,,,INR,146353.74,,,
+PRD-00069,Meridian Laptop Max,Electronics,Laptop,False,False,False,738,4.79,"premium, new",2023-03-13,0.55,True,INR,68078.74,22.8,95.8,137.8
+PRD-00040,Tamira Headphones Lite,Electronics,Headphones,False,False,False,137,4.55,"new, bestseller, premium",2022-01-18,,,INR,91318.57,,,
+PRD-00266,Zenith Recliner Classic,Furniture,Recliner,False,False,False,222,3.74,,2021-05-18,66.13,False,INR,58196.87,38.0,104.4,21.6
+PRD-00231,Meridian Bookshelf Max,Furniture,Bookshelf,True,False,False,788,3.98,,2022-09-10,65.95,True,INR,154100.05,12.4,7.2,8.1
+PRD-00802,Tamira Comic Set Pro,Books,Comic Set,True,False,False,549,4.82,,2023-05-09,0.65,,INR,161967.78,136.2,40.4,49.0
+PRD-00024,Meridian Tablet Classic,Electronics,Tablet,True,False,False,614,4.54,,2023-01-21,0.36,True,INR,100960.01,26.8,35.0,68.4

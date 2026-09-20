@@ -1,0 +1,210 @@
+{
+  "mode_classifier": {
+    "accuracy": 0.9109965635738831,
+    "f1_weighted": 0.9063070719976025,
+    "classification_report": {
+      "Air Cargo": {
+        "precision": 0.9295039164490861,
+        "recall": 0.9081632653061225,
+        "f1-score": 0.9187096774193548,
+        "support": 392.0
+      },
+      "Bike": {
+        "precision": 0.8806970509383378,
+        "recall": 0.9439655172413793,
+        "f1-score": 0.9112343966712899,
+        "support": 696.0
+      },
+      "Drone": {
+        "precision": 0.8629032258064516,
+        "recall": 0.6729559748427673,
+        "f1-score": 0.7561837455830389,
+        "support": 159.0
+      },
+      "Ship": {
+        "precision": 0.9230769230769231,
+        "recall": 0.24489795918367346,
+        "f1-score": 0.3870967741935484,
+        "support": 49.0
+      },
+      "Truck": {
+        "precision": 0.9194948697711128,
+        "recall": 0.9724540901502504,
+        "f1-score": 0.9452332657200812,
+        "support": 1198.0
+      },
+      "Van": {
+        "precision": 0.9389920424403183,
+        "recall": 0.8509615384615384,
+        "f1-score": 0.89281210592686,
+        "support": 416.0
+      },
+      "accuracy": 0.9109965635738831,
+      "macro avg": {
+        "precision": 0.9091113380803718,
+        "recall": 0.7655663908642886,
+        "f1-score": 0.8018783275856957,
+        "support": 2910.0
+      },
+      "weighted avg": {
+        "precision": 0.9113191094419539,
+        "recall": 0.9109965635738831,
+        "f1-score": 0.9063070719976025,
+        "support": 2910.0
+      }
+    },
+    "confusion_matrix": [
+      [
+        356,
+        7,
+        0,
+        0,
+        24,
+        5
+      ],
+      [
+        11,
+        657,
+        7,
+        0,
+        16,
+        5
+      ],
+      [
+        5,
+        24,
+        107,
+        0,
+        23,
+        0
+      ],
+      [
+        4,
+        10,
+        4,
+        12,
+        14,
+        5
+      ],
+      [
+        3,
+        18,
+        3,
+        1,
+        1165,
+        8
+      ],
+      [
+        4,
+        30,
+        3,
+        0,
+        25,
+        354
+      ]
+    ],
+    "roc_auc_ovr_weighted": 0.9517093586585293
+  },
+  "eta_regressor": {
+    "mae": 1.434906469053967,
+    "mse": 9.147394691262482,
+    "rmse": 3.024466017541358,
+    "r2": 0.9680938261109361
+  },
+  "maintenance_classifier": {
+    "accuracy": 0.9756737419508705,
+    "f1_weighted": 0.9760043002540472,
+    "classification_report": {
+      "0": {
+        "precision": 0.99026369168357,
+        "recall": 0.9822937625754528,
+        "f1-score": 0.9862626262626263,
+        "support": 7455.0
+      },
+      "1": {
+        "precision": 0.8668012108980827,
+        "recall": 0.9226638023630505,
+        "f1-score": 0.8938605619146722,
+        "support": 931.0
+      },
+      "accuracy": 0.9756737419508705,
+      "macro avg": {
+        "precision": 0.9285324512908264,
+        "recall": 0.9524787824692516,
+        "f1-score": 0.9400615940886492,
+        "support": 8386.0
+      },
+      "weighted avg": {
+        "precision": 0.9765570890588038,
+        "recall": 0.9756737419508705,
+        "f1-score": 0.9760043002540472,
+        "support": 8386.0
+      }
+    },
+    "confusion_matrix": [
+      [
+        7323,
+        132
+      ],
+      [
+        72,
+        859
+      ]
+    ]
+  },
+  "sentiment_classifier": {
+    "accuracy": 1.0,
+    "f1_weighted": 1.0,
+    "classification_report": {
+      "neg": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 545.0
+      },
+      "neu": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 506.0
+      },
+      "pos": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 1257.0
+      },
+      "accuracy": 1.0,
+      "macro avg": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 2308.0
+      },
+      "weighted avg": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 2308.0
+      }
+    },
+    "confusion_matrix": [
+      [
+        545,
+        0,
+        0
+      ],
+      [
+        0,
+        506,
+        0
+      ],
+      [
+        0,
+        0,
+        1257
+      ]
+    ],
+    "roc_auc_ovr_weighted": 1.0
+  }
+}
