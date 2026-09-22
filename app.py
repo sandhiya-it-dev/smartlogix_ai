@@ -48,6 +48,28 @@ button[data-testid="stBaseButton-primary"] p,button[data-testid="stBaseButton-pr
 [data-testid="stChatInput"]{background:#ffffff!important;border:1px solid #cbd5e1!important;border-radius:12px!important}
 [data-testid="stChatInput"] textarea{color:#13213c!important;background:#ffffff!important;-webkit-text-fill-color:#13213c!important}
 [data-testid="stChatInput"] textarea::placeholder{color:#718096!important;-webkit-text-fill-color:#718096!important}
+
+/* Route Optimization form visibility */
+div[data-testid="stNumberInput"] label p,
+div[data-testid="stTextArea"] label p{
+    color:#17233c!important;
+    -webkit-text-fill-color:#17233c!important;
+    opacity:1!important;
+    font-weight:600!important;
+}
+
+div[data-testid="stNumberInput"] input,
+div[data-testid="stTextArea"] textarea{
+    color:#ffffff!important;
+    -webkit-text-fill-color:#ffffff!important;
+    caret-color:#ffffff!important;
+}
+
+div[data-testid="stTextArea"] textarea::placeholder{
+    color:#b8c0d0!important;
+    -webkit-text-fill-color:#b8c0d0!important;
+    opacity:1!important;
+}
 </style>""",
     unsafe_allow_html=True,
 )
@@ -479,20 +501,29 @@ def page_analytics():
         "on_time",
     ]:
         orders[c] = pd.to_numeric(orders[c], errors="coerce")
-    orders["delay_hours"] = orders.actual_delivery_hours - orders.promised_eta_hours
+
+    orders["timing_variance_hours"] = (
+        orders["actual_delivery_hours"] - orders["promised_eta_hours"]
+    )
+
     a, b = st.columns(2)
     with a:
         st.plotly_chart(
             px.box(
                 orders,
                 x="transport_mode",
-                y="delay_hours",
+                y="timing_variance_hours",
                 color="transport_mode",
-                title="Delivery delay by mode",
+                title="Delivery Timing Variance by Mode",
+                labels={
+                    "transport_mode": "Transport Mode",
+                    "timing_variance_hours": "Timing Variance (Hours)",
+                },
             ),
             width="stretch",
             config={"displayModeBar": False},
         )
+
     with b:
         st.plotly_chart(
             px.scatter(
@@ -501,11 +532,17 @@ def page_analytics():
                 y="delivery_cost_inr",
                 color="transport_mode",
                 opacity=0.55,
-                title="Distance and delivery cost",
+                title="Distance and Delivery Cost",
+                labels={
+                    "distance_km": "Distance (km)",
+                    "delivery_cost_inr": "Delivery Cost (INR)",
+                    "transport_mode": "Transport Mode",
+                },
             ),
             width="stretch",
             config={"displayModeBar": False},
         )
+
     summary = (
         orders.groupby("transport_mode")
         .agg(

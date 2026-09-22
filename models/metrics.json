@@ -1,6 +1,7 @@
 {
   "mode_classifier": {
     "accuracy": 0.9109965635738831,
+    "f1_macro": 0.8018783275856957,
     "f1_weighted": 0.9063070719976025,
     "classification_report": {
       "Air Cargo": {
@@ -103,6 +104,14 @@
         354
       ]
     ],
+    "labels": [
+      "Air Cargo",
+      "Bike",
+      "Drone",
+      "Ship",
+      "Truck",
+      "Van"
+    ],
     "roc_auc_ovr_weighted": 0.9517093586585293
   },
   "eta_regressor": {
@@ -113,6 +122,7 @@
   },
   "maintenance_classifier": {
     "accuracy": 0.9756737419508705,
+    "f1_macro": 0.9400615940886492,
     "f1_weighted": 0.9760043002540472,
     "classification_report": {
       "0": {
@@ -150,61 +160,89 @@
         72,
         859
       ]
-    ]
+    ],
+    "labels": [
+      "0",
+      "1"
+    ],
+    "roc_auc": 0.9770463093635209
   },
   "sentiment_classifier": {
     "accuracy": 1.0,
+    "f1_macro": 1.0,
     "f1_weighted": 1.0,
     "classification_report": {
       "neg": {
         "precision": 1.0,
         "recall": 1.0,
         "f1-score": 1.0,
-        "support": 545.0
+        "support": 18.0
       },
       "neu": {
         "precision": 1.0,
         "recall": 1.0,
         "f1-score": 1.0,
-        "support": 506.0
+        "support": 9.0
       },
       "pos": {
         "precision": 1.0,
         "recall": 1.0,
         "f1-score": 1.0,
-        "support": 1257.0
+        "support": 23.0
       },
       "accuracy": 1.0,
       "macro avg": {
         "precision": 1.0,
         "recall": 1.0,
         "f1-score": 1.0,
-        "support": 2308.0
+        "support": 50.0
       },
       "weighted avg": {
         "precision": 1.0,
         "recall": 1.0,
         "f1-score": 1.0,
-        "support": 2308.0
+        "support": 50.0
       }
     },
     "confusion_matrix": [
       [
-        545,
+        18,
         0,
         0
       ],
       [
         0,
-        506,
+        9,
         0
       ],
       [
         0,
         0,
-        1257
+        23
       ]
     ],
-    "roc_auc_ovr_weighted": 1.0
+    "labels": [
+      "neg",
+      "neu",
+      "pos"
+    ],
+    "roc_auc_ovr_weighted": 1.0,
+    "cv_folds": 5,
+    "cv_accuracy_mean": 1.0,
+    "cv_accuracy_std": 0.0,
+    "cv_f1_macro_mean": 1.0,
+    "cv_f1_macro_std": 0.0,
+    "cv_f1_weighted_mean": 1.0,
+    "cv_f1_weighted_std": 0.0,
+    "original_usable_reviews": 11536,
+    "unique_review_texts": 248,
+    "duplicate_text_count": 11288,
+    "duplicate_text_rate": 0.978502080443828,
+    "conflicting_text_rows_removed": 0,
+    "warnings": [
+      "The review dataset contains many repeated text patterns. Internal scores may overestimate real-world performance.",
+      "The dataset contains fewer than 500 unique normalized review texts. More diverse real-world reviews are recommended.",
+      "Near-perfect holdout accuracy should be validated using an independent external review dataset."
+    ]
   }
 }

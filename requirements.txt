@@ -12,5 +12,7 @@ python-multipart>=0.0.9
 opencv-python-headless>=4.8
 Pillow>=10.0
 pytest>=8.0
-# Optional for YOLO training: ultralytics>=8.2
+SQLAlchemy
+psycopg[binary]
+python-dotenv
 
